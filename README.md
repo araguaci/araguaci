@@ -84,7 +84,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&hide_border=true&layout=compact" align="left" style="width: 80%" />
 
 </td></tr></table>  
 
