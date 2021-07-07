@@ -19,7 +19,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 
 ### Rapidfire  
-<table width="100%" style="overflow: hidden; border: none;"><tr><td valign="top" width="64%">
+<table style="overflow: hidden; border: none;"><tr><td valign="top" width="62%">
 
 - 🔭 I’m currently working on [Megatronix Solutions](https://github.com/megatronixoficial)  
   
@@ -35,7 +35,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 </td><td valign="top" width="36%">
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 46%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 44%" />  
 
 
 </td></tr></table>  
@@ -78,7 +78,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 
 ### Github Stats  
-<table width="100%><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -86,8 +86,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
+</td></tr></table> 
 <br/>  
 
   
