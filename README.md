@@ -40,8 +40,6 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 </td></tr></table>  
 
-<br/>  
-
 
 ### Languages and Tools  
 <div align="center">  
@@ -74,8 +72,6 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
 </div>  
 
-<br/>  
-
 
 ### Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -87,19 +83,10 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table> 
-<br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
 
 [Coffee, i like it...](https://www.buymeacoffee.com/araguaci)
 ----
