@@ -34,20 +34,22 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 44%" />  
 
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">By Profilinator</a></div>
 </td></tr></table>  
 
-### Designer, Procucer, Creator, Patreon and Hosting by Free Volunteering
+### Profissional Software Engineer, Designer, Producer, Creator and Hosting by Demand Work
 
-  - [Floripa Surf Club Surf School – a escola que ensina a surfar na praia com ondas perfeitas para iniciantes](http://floripasurfclub.com.br/)
+  - [Gestão de CTI](http://attender.com.br/#/)
+  - [Gerenciamento de CTI - Serviços de Fila, Monitoramento, Supervição e Operação](http://megatronix.com.br/)
+
+### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
+
   - [FLORIPA SUP CLUB - Stand Up Paddle SURFCLUB](http://www.floripasupclub.com.br/)
+  - [Floripa Surf Club Surf School – a escola que ensina a surfar na praia com ondas perfeitas para iniciantes](http://floripasurfclub.com.br/)
   - [F.E.C.E.E.S.S. ☆ A.C.E.S. SC- Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina](https://escolasdesurf.org.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
-  - [Gerenciamento de CTI - Serviços de Fila, Monitoramento, Supervição e Operação](http://megatronix.com.br/)
-  - [Gestão de CTI](http://attender.com.br/#/)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat-square)  
 
 [Coffee, i like it...](https://www.buymeacoffee.com/araguaci)
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
