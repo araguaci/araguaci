@@ -47,6 +47,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
   - [F.E.C.E.E.S.S. ☆ A.C.E.S. SC- Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina](https://escolasdesurf.org.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
   - [Gerenciamento de CTI - Serviços de Fila, Monitoramento, Supervição e Operação](http://megatronix.com.br/)
+  - [Gestão de CTI](http://attender.com.br/#/)
 
 
 ### Languages and Tools  
