@@ -37,10 +37,10 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">By Profilinator</a></div>
 </td></tr></table>  
 
-### Profissional Software Engineer, Designer, Producer, Creator and Hosting by Demand Work
+### Professional Software Engineer, Designer, Producer, Creator and Hosting by Demand Work
 
   - [Gestão de CTI](http://attender.com.br/#/)
-  - [Gerenciamento de CTI - Serviços de Fila, Monitoramento, Supervição e Operação](http://megatronix.com.br/)
+  - [CTI - Gestão de Distribuição, Fila, Monitoramento, Supervição e Operação](http://megatronix.com.br/)
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
 
