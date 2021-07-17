@@ -40,6 +40,13 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 </td></tr></table>  
 
+### Designer, Procucer, Creator, Patreon and Hosting by Free Volunteering
+
+  - [Floripa Surf Club Surf School – a escola que ensina a surfar na praia com ondas perfeitas para iniciantes](http://floripasurfclub.com.br/)
+  - [FLORIPA SUP CLUB - Stand Up Paddle SURFCLUB](http://www.floripasupclub.com.br/)
+  - [F.E.C.E.E.S.S. ☆ A.C.E.S. SC- Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina](https://escolasdesurf.org.br/)
+  - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
+
 
 ### Languages and Tools  
 <div align="center">  
