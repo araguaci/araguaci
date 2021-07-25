@@ -1,4 +1,4 @@
-## Hey 👋, I'm Araguaci!  
+## Hey There 👋   
   
 <a href="https://twitter.com/webmasterads1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -12,35 +12,66 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
+I’m a developer who has turned years of freelancing into a full-time career. 
+<table style="overflow: hidden; border: none;"><tr><td valign="top" width="50%">
 
+✠ Que as gotas de chuva molhem suavemente o seu rosto.
 
-### Rapidfire  
-<table style="overflow: hidden; border: none;"><tr><td valign="top" width="62%">
+✠ Que o vento suave refresque seu espírito.
 
-- 🔭 I’m currently working on [Megatronix Solutions](https://github.com/megatronixoficial)  
-  
+✠ Que o sol ilumine o seu coração.
 
-- 🌱 I’m currently learning Law of Time, SPA and quantic things...  
-  
+✠ Que as tarefas do dia não sejam um peso nos seus ombros.
 
-- ❓ Ask me about where do we come from, what are we and where are we going...  
-  
+✠ Que Deus envolva você no manto de seu amor.
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+✠ Que a estrada se abra à sua frente.
 
+✠ Que o vento sopre levemente em suas costas.
 
-</td><td valign="top" width="36%">
+✠ Que o sol brilhe morno e suave em sua face.
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 44%" />  
+✠ Que a chuva caia de mansinho em seus campos.
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">By Profilinator</a></div>
+✠ Até que nos encontremos de novo...
+
+✠ Que Deus guarde você na palma de sua mão.
+
+</td><td valign="top" width="50%">
+
+✠ Let the raindrops gently wet your face.
+
+✠ May the gentle wind refresh his spirit.
+
+✠ May the sun light up your heart.
+
+✠ That the tasks of the day are not a burden on your shoulders.
+
+✠ May God wrap you in the mantle of his love.
+
+✠ Let the road open in front of you.
+
+✠ Let the wind blow lightly on your back.
+
+✠ May the sun shine warm and soft on your face.
+
+✠ May the rain fall softly on your fields.
+
+✠ Until we meet again...
+
+✠ May God keep you in the palm of his hand.
 </td></tr></table>  
 
-### Professional Software Engineer, Designer, Producer, Creator and Hosting by Demand Work
 
-  - [Gestão de CTI](http://attender.com.br/#/)
-  - [CTI - Gestão de Distribuição, Fila, Monitoramento, Supervição e Operação](http://megatronix.com.br/)
+
+    918197185    3396815  138 14111963    71042    419 814
+    
+    SANTO, SANTO, SANTO, É O SENHOR DAS HOSTES DO UNIVERSO
+    
+    KODOISH, KODOISH, KODOISH ADONAI TSEBAYOTH
+    
+
+
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
 
