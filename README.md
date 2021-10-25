@@ -84,3 +84,8 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 [Coffee, i like it...](https://www.buymeacoffee.com/araguaci)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&theme=radical)
+
+[![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/araguaci/)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/araguaci)
