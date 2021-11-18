@@ -1,13 +1,13 @@
 ## Hey There 👋   
   
 <a href="https://twitter.com/webmasterads1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/araguaci" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/araguaciandrade" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
 
@@ -87,14 +87,15 @@ Federação Catarinense de Especialistas e Escolas de Surf e Stand Up Paddle
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Escolas de Surf Credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
 
-
   
-![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat-square)  
-
-[Coffee, i like it...](https://www.buymeacoffee.com/araguaci)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&theme=radical)
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=araguaci&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+  <br>
+  <a href="https://www.buymeacoffee.com/araguaci"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="araguaci" /></a>
+</p>
+  
+![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/araguaci/)
-[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/araguaci)
