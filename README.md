@@ -75,15 +75,18 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
 
-  - [FLORIPA SUP CLUB - Stand Up Paddle SURFCLUB](http://www.floripasupclub.com.br/)
-  - [Floripa Surf Club Surf School – a escola que ensina a surfar na praia com ondas perfeitas para iniciantes](http://floripasurfclub.com.br/)
+  - [FLORIPA SURF CLUB SURF SCHOOL – A escola que ensina a surfar na praia com ondas perfeitas para iniciantes](http://floripasurfclub.com.br/)
+  - [FLORIPA SUP CLUB - STAND UP PADDLE SURFCLUB](http://www.floripasupclub.com.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
+  - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
 
-### F.E.C.E.E.S.S.
-Federação Catarinense de Especialistas e Escolas de Surf e Stand Up Paddle
+### F.E.C.E.E.S.S. ☆ A.C.E.S. SC
   
+  Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina
+
+  - [🌊 Federação Catarinense de Especialistas e Escolas de Surf e Stand Up Paddle](https://escolasdesurf.org.br/)
   - A.C.E.S. SC-Associação Catarinense das Escolas de Surf SC
-  - [🌊 Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina](https://escolasdesurf.org.br/)
+  - Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Escolas de Surf Credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
 
