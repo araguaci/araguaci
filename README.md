@@ -13,6 +13,9 @@
 
 ### Glad to see you here!  
 I’m a developer who has turned years of freelancing into a full-time career. 
+
+[What Motivates Me](https://araguaci.github.io/personality/)
+
 <table style="overflow: hidden; border: none;"><tr><td valign="top" width="50%">
 
 ✠ Que as gotas de chuva molhem suavemente o seu rosto.
