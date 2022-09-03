@@ -10,7 +10,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-
 ### Glad to see you here!  
 I’m a developer who has turned years of freelancing into a full-time career. 
 
@@ -105,3 +104,4 @@ I’m a developer who has turned years of freelancing into a full-time career.
   
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=araguaci)
