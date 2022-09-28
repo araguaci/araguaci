@@ -42,7 +42,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/contributions.svg
           committer_message: "📊 Updates metrics - contributions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           template: classic
           base: ""
@@ -83,7 +83,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/stargazers.svg
           committer_message: "📊 Updates metrics - stargazers"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           plugin_stargazers: yes
@@ -100,7 +100,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/activity.svg
           committer_message: "📊 Updates metrics - activity"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           plugin_activity: yes
@@ -119,7 +119,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/reactions.svg
           committer_message: "📊 Updates metrics - reactions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           plugin_reactions: yes
@@ -140,7 +140,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           committer_message: "📊 Updates metrics - people"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/people.svg
           user: araguaci
           base: ""
@@ -159,7 +159,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/languages.svg
           committer_message: "📊 Updates metrics - languages"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           plugin_languages: yes
@@ -182,7 +182,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/starlists.svg
           committer_message: "📊 Updates metrics - starlists"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           plugin_starlists: yes
@@ -201,7 +201,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/intro.svg
           committer_message: "📊 Updates metrics - intro"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           plugin_introduction: yes  
@@ -217,7 +217,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/topics.svg
           committer_message: "📊 Updates metrics - topics"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           plugin_topics: yes
@@ -234,14 +234,14 @@ jobs:
         with:
           filename: assets/metrics/wakatime.svg
           committer_message: "📊 Updates metrics - wakatime"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_user: liss
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           
   # All Metrics together
   all-metrics:
@@ -254,7 +254,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/all.svg
           committer_message: "📊 Updates metrics - all"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           # Options
           user: araguaci
           template: classic
@@ -307,7 +307,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/summary.svg
           committer_message: "📊 Updates metrics - summary"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           user: araguaci
           template: classic
           base: activity, community, repositories
