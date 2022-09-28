@@ -15,10 +15,10 @@
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/languages.svg">](#languages)
 
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/topics.svg">][starlist]
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/starlists.svg">][starlist]
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/starlists.svg">][starlist]
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/all.svg">](#all)
 
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/activity.svg">][activity]
-[<img align="center" width="450" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/all.svg">](#all)
 
 
 <!-- Links within repo -->
