@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 64.2mb of code in 3175 edited files across 379 commits</small>
+                <small>estimation from 64.2mb of code in 3175 edited files across 386 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -144,7 +144,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 10.9kb of code in 19 edited files across 72 commits over last 19 days</small>
+                <small>estimation from 10.9kb of code in 22 edited files across 78 commits over last 17 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -162,7 +162,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>390 lines</div>
+                                <div>391 lines</div>
                                 <div>10.9 kB</div>
                             </small>
                         </div>
