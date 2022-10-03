@@ -101,7 +101,9 @@ I’m a developer who has turned years of freelancing into a full-time career.
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Escolas de Surf Credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
 
-  
+<details>
+  <summary><b>📊 Summary</b></summary>
+    <p>  
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&theme=blue&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&hide_border=true&theme=blue&bg_color=FFFFFF00&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -110,7 +112,20 @@ I’m a developer who has turned years of freelancing into a full-time career.
 <p align="center">
   <a href="https://www.buymeacoffee.com/araguaci"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="araguaci" /></a>
 </p>
-  
+
+    </p>
+</details>
+
+<details>
+  <summary><b>📊 Metrics</b></summary>
+    <p>  
+      <img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/summary.svg"> 
+      <img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/people.svg">
+      <img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/topics.svg">
+      <img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/araguaci/araguaci/master/assets/metrics/starlists.svg">
+    </p>
+</details>
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=araguaci)
