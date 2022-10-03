@@ -24,6 +24,10 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 [What Motivates Me](https://araguaci.github.io/personality/)
 
+<details>
+  <summary><b>💫 For Soul</b></summary>
+    <p>
+      
 <table style="overflow: hidden; border: none;"><tr><td valign="top" width="50%">
 
 ✠ Que as gotas de chuva molhem suavemente o seu rosto.
@@ -82,7 +86,12 @@ I’m a developer who has turned years of freelancing into a full-time career.
     KODOISH, KODOISH, KODOISH ADONAI TSEBAYOTH
     
 
+      p>
+</details>
 
+<details>
+  <summary><b>🛠️ Designer, Producer, Creator</b></summary>
+    <p>
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
 
@@ -100,6 +109,9 @@ I’m a developer who has turned years of freelancing into a full-time career.
   - Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Escolas de Surf Credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
+
+      p>
+</details>
 
 <details>
   <summary><b>📊 Summary</b></summary>
