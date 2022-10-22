@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 64.5mb of code in 3411 edited files across 512 commits</small>
+                <small>estimation from 64.5mb of code in 3411 edited files across 515 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -144,17 +144,44 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.07kb of code in 20 edited files across 163 commits over last 23 days</small>
+                <small>estimation from 15.3kb of code in 29 edited files across 164 commits over last 23 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="4.903929589686377" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="4.903929589686377" y="0" width="4.447750092971365" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="9.351679682657743" y="0" width="450.64832031734227" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="206.3764337851929" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="206.3764337851929" y="0" width="2.578206465067779" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="208.95464025026067" y="0" width="2.33837330552659" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="211.29301355578724" y="0" width="248.7069864442127" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#e38c00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TSQL
+                            </div>
+                            <small>
+                                <div>220 lines</div>
+                                <div>6.88 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Batchfile
+                            </div>
+                            <small>
+                                <div>4 lines</div>
+                                <div>78 bytes</div>
+                            </small>
+                        </div>
+                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -176,22 +203,8 @@
                                 Other
                             </div>
                             <small>
-                                <div>107 lines</div>
-                                <div>7.90 kB</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Batchfile
-                            </div>
-                            <small>
-                                <div>4 lines</div>
-                                <div>78 bytes</div>
+                                <div>118 lines</div>
+                                <div>8.30 kB</div>
                             </small>
                         </div>
                     </section>
