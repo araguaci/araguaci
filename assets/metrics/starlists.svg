@@ -32,9 +32,9 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="122.50000000000001" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="122.50000000000001" y="0" width="119" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="241.49999999999997" y="0" width="45.5" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="119" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="119" y="0" width="119" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="238" y="0" width="49" height="8" fill="#3572a5"/>
                                         <rect mask="url(#languages-bar)" x="287" y="0" width="45.5" height="8" fill="#4f5d95"/>
                                         <rect mask="url(#languages-bar)" x="332.50000000000006" y="0" width="21" height="8" fill="#00add8"/>
                                         <rect mask="url(#languages-bar)" x="353.50000000000006" y="0" width="14" height="8" fill="#e34c26"/>
@@ -51,13 +51,13 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                JavaScript
                                             </div>
                                             <small>
-                                                <div>27.13%</div>
-                                                <div>35★</div>
+                                                <div>26.36%</div>
+                                                <div>34★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -68,8 +68,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>10.08%</div>
-                                                <div>13★</div>
+                                                <div>10.85%</div>
+                                                <div>14★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -125,9 +125,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                JavaScript
+                                                TypeScript
                                             </div>
                                             <small>
                                                 <div>26.36%</div>
