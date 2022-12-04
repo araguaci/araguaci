@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 134.1 characters per line of code written</li>
+                        <li>Has approximately 133.6 characters per line of code written</li>
                         <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -28,13 +28,13 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">113</span>
+                            <span class="value">112</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">15</span>
-                            <div class="bar" style="height: 6.637168141592921px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">16</span>
+                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                     </div>
