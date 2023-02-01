@@ -110,7 +110,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Escolas de Surf Credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
 
-      p>
+       
 </details>
 
 <details>
