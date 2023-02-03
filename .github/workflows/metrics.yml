@@ -4,33 +4,12 @@
 # Split into multiple jobs, to prevent everything failing if one component errors,
 # And to improve the loading and layout of /METRICS.md where the SVGs are displayed
 
-name: ? Generates Metrics
+name: Metrics
 on:
   schedule:
     - cron: '40 23 * * *' # Run every evening, twenty mins before midnight
   workflow_dispatch: # Or when it's manually triggered
 jobs:        
-  # Sponsors Card
-  sponsor-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          filename: assets/metrics/sponsors.svg
-          committer_message: "? Updates metrics - sponsors"
-          # Options
-          user: araguaci
-          template: classic
-          base: ""
-          config_timezone: America/Sao_Paulo
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: goal, list
-          plugin_sponsors_size: 36
-  
   # 10 Years worth of contribution charts
   historical-contribuitions-metrics:
     runs-on: ubuntu-latest
