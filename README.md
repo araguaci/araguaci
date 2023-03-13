@@ -26,7 +26,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 <details>
   <summary><b>💫 For Soul</b></summary>
-    <p>
+     
       
 <table style="overflow: hidden; border: none;"><tr><td valign="top" width="50%">
 
@@ -90,7 +90,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 <details>
   <summary><b>🛠️ Designer, Producer, Creator</b></summary>
-    <p>
+     
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
 
