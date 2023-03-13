@@ -86,7 +86,6 @@ I’m a developer who has turned years of freelancing into a full-time career.
     KODOISH, KODOISH, KODOISH ADONAI TSEBAYOTH
     
 
-      p>
 </details>
 
 <details>
