@@ -5,7 +5,10 @@
 
 
 ### Aruba - Oranjestad
-![🇦🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1fc.png)<details>
+![🇦🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1fc.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** Dutch, Papiamento  
 **Currencies:** Aruban florin (ƒ)  
@@ -17,9 +20,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Afghanistan - Kabul
-![🇦🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1eb.png)<details>
+![🇦🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1eb.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** Dari, Pashto, Turkmen  
 **Currencies:** Afghan afghani (؋)  
@@ -31,9 +37,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Angola - Luanda
-![🇦🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f4.png)<details>
+![🇦🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f4.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** Portuguese  
 **Currencies:** Angolan kwanza (Kz)  
@@ -45,9 +54,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Anguilla - The Valley
-![🇦🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ee.png)<details>
+![🇦🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ee.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -59,9 +71,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Åland Islands - Mariehamn
-![🇦🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1fd.png)<details>
+![🇦🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1fd.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Swedish  
 **Currencies:** Euro (€)  
@@ -73,9 +88,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Albania - Tirana
-![🇦🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f1.png)<details>
+![🇦🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f1.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Albanian  
 **Currencies:** Albanian lek (L)  
@@ -87,9 +105,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Andorra - Andorra la Vella
-![🇦🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1e9.png)<details>
+![🇦🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1e9.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Catalan  
 **Currencies:** Euro (€)  
@@ -101,9 +122,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### United Arab Emirates - Abu Dhabi
-![🇦🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ea.png)<details>
+![🇦🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ea.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** United Arab Emirates dirham (د.إ)  
@@ -115,9 +139,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Argentina - Buenos Aires
-![🇦🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f7.png)<details>
+![🇦🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f7.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Guaraní, Spanish  
 **Currencies:** Argentine peso ($)  
@@ -129,9 +156,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Armenia - Yerevan
-![🇦🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f2.png)<details>
+![🇦🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f2.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Armenian  
 **Currencies:** Armenian dram (֏)  
@@ -143,9 +173,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### American Samoa - Pago Pago
-![🇦🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f8.png)<details>
+![🇦🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f8.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English, Samoan  
 **Currencies:** United States dollar ($)  
@@ -157,9 +190,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Antarctica - \[NO CAPITAL\]
-![🇦🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f6.png)<details>
+![🇦🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f6.png)
+
+
+
 **Region:** Antarctic ()  
 **Languages:**  
 **Currencies:**  
@@ -171,9 +207,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### French Southern and Antarctic Lands - Port-aux-Français
-![🇹🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1eb.png)<details>
+![🇹🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1eb.png)
+
+
+
 **Region:** Antarctic ()  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -185,9 +224,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Antigua and Barbuda - Saint John's
-![🇦🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ec.png)<details>
+![🇦🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ec.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -199,9 +241,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Australia - Canberra
-![🇦🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1fa.png)<details>
+![🇦🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1fa.png)
+
+
+
 **Region:** Oceania (Australia and New Zealand)  
 **Languages:** English  
 **Currencies:** Australian dollar ($)  
@@ -213,9 +258,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Austria - Vienna
-![🇦🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f9.png)<details>
+![🇦🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1f9.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** Austro-Bavarian German  
 **Currencies:** Euro (€)  
@@ -227,9 +275,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Azerbaijan - Baku
-![🇦🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ff.png)<details>
+![🇦🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e6-1f1ff.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Azerbaijani, Russian  
 **Currencies:** Azerbaijani manat (₼)  
@@ -241,9 +292,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Burundi - Gitega
-![🇧🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ee.png)<details>
+![🇧🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ee.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** French, Kirundi  
 **Currencies:** Burundian franc (Fr)  
@@ -255,9 +309,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Belgium - Brussels
-![🇧🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ea.png)<details>
+![🇧🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ea.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** German, French, Dutch  
 **Currencies:** Euro (€)  
@@ -269,9 +326,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Benin - Porto-Novo
-![🇧🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ef.png)<details>
+![🇧🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ef.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** West African CFA franc (Fr)  
@@ -283,9 +343,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Burkina Faso - Ouagadougou
-![🇧🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1eb.png)<details>
+![🇧🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1eb.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** West African CFA franc (Fr)  
@@ -297,9 +360,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bangladesh - Dhaka
-![🇧🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1e9.png)<details>
+![🇧🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1e9.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** Bengali  
 **Currencies:** Bangladeshi taka (৳)  
@@ -311,9 +377,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bulgaria - Sofia
-![🇧🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ec.png)<details>
+![🇧🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ec.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Bulgarian  
 **Currencies:** Bulgarian lev (лв)  
@@ -325,9 +394,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bahrain - Manama
-![🇧🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ed.png)<details>
+![🇧🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ed.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Bahraini dinar (.د.ب)  
@@ -339,9 +411,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bahamas - Nassau
-![🇧🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f8.png)<details>
+![🇧🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f8.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Bahamian dollar ($), United States dollar ($)  
@@ -353,9 +428,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bosnia and Herzegovina - Sarajevo
-![🇧🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1e6.png)<details>
+![🇧🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1e6.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Bosnian, Croatian, Serbian  
 **Currencies:** Bosnia and Herzegovina convertible mark ()  
@@ -367,9 +445,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Saint Barthélemy - Gustavia
-![🇧🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f1.png)<details>
+![🇧🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f1.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -381,9 +462,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Saint Helena, Ascension and Tristan da Cunha - Jamestown
-![🇸🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ed.png)<details>
+![🇸🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ed.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** English  
 **Currencies:** Pound sterling (£), Saint Helena pound (£)  
@@ -395,9 +479,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Belarus - Minsk
-![🇧🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1fe.png)<details>
+![🇧🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1fe.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Belarusian, Russian  
 **Currencies:** Belarusian ruble (Br)  
@@ -409,9 +496,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Belize - Belmopan
-![🇧🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ff.png)<details>
+![🇧🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1ff.png)
+
+
+
 **Region:** Americas (Central America)  
 **Languages:** Belizean Creole, English, Spanish  
 **Currencies:** Belize dollar ($)  
@@ -423,9 +513,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bermuda - Hamilton
-![🇧🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f2.png)<details>
+![🇧🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f2.png)
+
+
+
 **Region:** Americas (North America)  
 **Languages:** English  
 **Currencies:** Bermudian dollar ($)  
@@ -437,9 +530,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Bolivia - Sucre
-![🇧🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f4.png)<details>
+![🇧🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f4.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Aymara, Guaraní, Quechua, Spanish  
 **Currencies:** Bolivian boliviano (Bs.)  
@@ -451,8 +547,11 @@
 **UN Member:** Yes  
 
 
-</details>
-### Caribbean Netherlands - \[NO CAPITAL\]<details>
+
+### Caribbean Netherlands - \[NO CAPITAL\]
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English, Dutch, Papiamento  
 **Currencies:** United States dollar ($)  
@@ -464,9 +563,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Brazil - Brasília
-![🇧🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f7.png)<details>
+![🇧🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f7.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Portuguese  
 **Currencies:** Brazilian real (R$)  
@@ -478,9 +580,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Barbados - Bridgetown
-![🇧🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1e7.png)<details>
+![🇧🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1e7.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Barbadian dollar ($)  
@@ -492,9 +597,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Brunei - Bandar Seri Begawan
-![🇧🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f3.png)<details>
+![🇧🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f3.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Malay  
 **Currencies:** Brunei dollar ($), Singapore dollar ($)  
@@ -506,9 +614,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bhutan - Thimphu
-![🇧🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f9.png)<details>
+![🇧🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1f9.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** Dzongkha  
 **Currencies:** Bhutanese ngultrum (Nu.), Indian rupee (₹)  
@@ -520,9 +631,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Bouvet Island - \[NO CAPITAL\]
-![🇧🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1fb.png)<details>
+![🇧🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1fb.png)
+
+
+
 **Region:** Antarctic ()  
 **Languages:** Norwegian  
 **Currencies:**  
@@ -534,9 +648,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Botswana - Gaborone
-![🇧🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1fc.png)<details>
+![🇧🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e7-1f1fc.png)
+
+
+
 **Region:** Africa (Southern Africa)  
 **Languages:** English, Tswana  
 **Currencies:** Botswana pula (P)  
@@ -548,9 +665,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Central African Republic - Bangui
-![🇨🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1eb.png)<details>
+![🇨🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1eb.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** French, Sango  
 **Currencies:** Central African CFA franc (Fr)  
@@ -562,9 +682,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Canada - Ottawa
-![🇨🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1e6.png)<details>
+![🇨🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1e6.png)
+
+
+
 **Region:** Americas (North America)  
 **Languages:** English, French  
 **Currencies:** Canadian dollar ($)  
@@ -576,9 +699,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Cocos (Keeling) Islands - West Island
-![🇨🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1e8.png)<details>
+![🇨🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1e8.png)
+
+
+
 **Region:** Oceania (Australia and New Zealand)  
 **Languages:** English  
 **Currencies:** Australian dollar ($)  
@@ -590,9 +716,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Switzerland - Bern
-![🇨🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ed.png)<details>
+![🇨🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ed.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** French, Swiss German, Italian, Romansh  
 **Currencies:** Swiss franc (Fr.)  
@@ -604,9 +733,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Chile - Santiago
-![🇨🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f1.png)<details>
+![🇨🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f1.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Spanish  
 **Currencies:** Chilean peso ($)  
@@ -618,9 +750,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### China - Beijing
-![🇨🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f3.png)<details>
+![🇨🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f3.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** Chinese  
 **Currencies:** Chinese yuan (¥)  
@@ -632,9 +767,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Ivory Coast - Yamoussoukro
-![🇨🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ee.png)<details>
+![🇨🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ee.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** West African CFA franc (Fr)  
@@ -646,9 +784,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Cameroon - Yaoundé
-![🇨🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f2.png)<details>
+![🇨🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f2.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** English, French  
 **Currencies:** Central African CFA franc (Fr)  
@@ -660,9 +801,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### DR Congo - Kinshasa
-![🇨🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1e9.png)<details>
+![🇨🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1e9.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** French, Kikongo, Lingala, Tshiluba, Swahili  
 **Currencies:** Congolese franc (FC)  
@@ -674,9 +818,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Republic of the Congo - Brazzaville
-![🇨🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ec.png)<details>
+![🇨🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ec.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** French, Kikongo, Lingala  
 **Currencies:** Central African CFA franc (Fr)  
@@ -688,9 +835,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Cook Islands - Avarua
-![🇨🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f0.png)<details>
+![🇨🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f0.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English, Cook Islands Māori  
 **Currencies:** Cook Islands dollar ($), New Zealand dollar ($)  
@@ -702,9 +852,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Colombia - Bogotá
-![🇨🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f4.png)<details>
+![🇨🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f4.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Spanish  
 **Currencies:** Colombian peso ($)  
@@ -716,9 +869,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Comoros - Moroni
-![🇰🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f2.png)<details>
+![🇰🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f2.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Arabic, French, Comorian  
 **Currencies:** Comorian franc (Fr)  
@@ -730,9 +886,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Cape Verde - Praia
-![🇨🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fb.png)<details>
+![🇨🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fb.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** Portuguese  
 **Currencies:** Cape Verdean escudo (Esc)  
@@ -744,9 +903,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Costa Rica - San José
-![🇨🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f7.png)<details>
+![🇨🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1f7.png)
+
+
+
 **Region:** Americas (Central America)  
 **Languages:** Spanish  
 **Currencies:** Costa Rican colón (₡)  
@@ -758,9 +920,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Cuba - Havana
-![🇨🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fa.png)<details>
+![🇨🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fa.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** Spanish  
 **Currencies:** Cuban convertible peso ($), Cuban peso ($)  
@@ -772,9 +937,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Curaçao - Willemstad
-![🇨🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fc.png)<details>
+![🇨🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fc.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English, Dutch, Papiamento  
 **Currencies:** Netherlands Antillean guilder (ƒ)  
@@ -786,9 +954,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Christmas Island - Flying Fish Cove
-![🇨🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fd.png)<details>
+![🇨🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fd.png)
+
+
+
 **Region:** Oceania (Australia and New Zealand)  
 **Languages:** English  
 **Currencies:** Australian dollar ($)  
@@ -800,9 +971,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Cayman Islands - George Town
-![🇰🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1fe.png)<details>
+![🇰🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1fe.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Cayman Islands dollar ($)  
@@ -814,9 +988,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Cyprus - Nicosia
-![🇨🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fe.png)<details>
+![🇨🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1fe.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Greek, Turkish  
 **Currencies:** Euro (€)  
@@ -828,9 +1005,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Czechia - Prague
-![🇨🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ff.png)<details>
+![🇨🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e8-1f1ff.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Czech, Slovak  
 **Currencies:** Czech koruna (Kč)  
@@ -842,9 +1022,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Germany - Berlin
-![🇩🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1ea.png)<details>
+![🇩🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1ea.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** German  
 **Currencies:** Euro (€)  
@@ -856,9 +1039,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Djibouti - Djibouti
-![🇩🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1ef.png)<details>
+![🇩🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1ef.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Arabic, French  
 **Currencies:** Djiboutian franc (Fr)  
@@ -870,9 +1056,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Dominica - Roseau
-![🇩🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1f2.png)<details>
+![🇩🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1f2.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -884,9 +1073,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Denmark - Copenhagen
-![🇩🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1f0.png)<details>
+![🇩🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1f0.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Danish  
 **Currencies:** Danish krone (kr)  
@@ -898,9 +1090,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Dominican Republic - Santo Domingo
-![🇩🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1f4.png)<details>
+![🇩🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1f4.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** Spanish  
 **Currencies:** Dominican peso ($)  
@@ -912,9 +1107,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Algeria - Algiers
-![🇩🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1ff.png)<details>
+![🇩🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1e9-1f1ff.png)
+
+
+
 **Region:** Africa (Northern Africa)  
 **Languages:** Arabic  
 **Currencies:** Algerian dinar (د.ج)  
@@ -926,9 +1124,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Ecuador - Quito
-![🇪🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1e8.png)<details>
+![🇪🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1e8.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Spanish  
 **Currencies:** United States dollar ($)  
@@ -940,9 +1141,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Egypt - Cairo
-![🇪🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1ec.png)<details>
+![🇪🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1ec.png)
+
+
+
 **Region:** Africa (Northern Africa)  
 **Languages:** Arabic  
 **Currencies:** Egyptian pound (£)  
@@ -954,9 +1158,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Eritrea - Asmara
-![🇪🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1f7.png)<details>
+![🇪🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1f7.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Arabic, English, Tigrinya  
 **Currencies:** Eritrean nakfa (Nfk)  
@@ -968,9 +1175,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Western Sahara - El Aaiún
-![🇪🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1ed.png)<details>
+![🇪🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1ed.png)
+
+
+
 **Region:** Africa (Northern Africa)  
 **Languages:** Berber, Hassaniya, Spanish  
 **Currencies:** Algerian dinar (دج), Moroccan dirham (DH), Mauritanian ouguiya (UM)  
@@ -982,9 +1192,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Spain - Madrid
-![🇪🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1f8.png)<details>
+![🇪🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1f8.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Spanish  
 **Currencies:** Euro (€)  
@@ -996,9 +1209,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Estonia - Tallinn
-![🇪🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1ea.png)<details>
+![🇪🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1ea.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Estonian  
 **Currencies:** Euro (€)  
@@ -1010,9 +1226,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Ethiopia - Addis Ababa
-![🇪🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1f9.png)<details>
+![🇪🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ea-1f1f9.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Amharic  
 **Currencies:** Ethiopian birr (Br)  
@@ -1024,9 +1243,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Finland - Helsinki
-![🇫🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1ee.png)<details>
+![🇫🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1ee.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Finnish, Swedish  
 **Currencies:** Euro (€)  
@@ -1038,9 +1260,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Fiji - Suva
-![🇫🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1ef.png)<details>
+![🇫🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1ef.png)
+
+
+
 **Region:** Oceania (Melanesia)  
 **Languages:** English, Fijian, Fiji Hindi  
 **Currencies:** Fijian dollar ($)  
@@ -1052,9 +1277,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Falkland Islands - Stanley
-![🇫🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1f0.png)<details>
+![🇫🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1f0.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** English  
 **Currencies:** Falkland Islands pound (£)  
@@ -1066,14 +1294,17 @@
 **UN Member:** No  
 
 
-</details>
+
 ### France - Paris
 ![🇫🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1f7.png)  ▼  
 
 
-</details>
+
 ### Faroe Islands - Tórshavn
-![🇫🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1f4.png)<details>
+![🇫🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1f4.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Danish, Faroese  
 **Currencies:** Danish krone (kr), Faroese króna (kr)  
@@ -1085,9 +1316,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Micronesia - Palikir
-![🇫🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1f2.png)<details>
+![🇫🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1eb-1f1f2.png)
+
+
+
 **Region:** Oceania (Micronesia)  
 **Languages:** English  
 **Currencies:**  
@@ -1099,9 +1333,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Gabon - Libreville
-![🇬🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1e6.png)<details>
+![🇬🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1e6.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** French  
 **Currencies:** Central African CFA franc (Fr)  
@@ -1113,9 +1350,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### United Kingdom - London
-![🇬🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1e7.png)<details>
+![🇬🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1e7.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** English  
 **Currencies:** British pound (£)  
@@ -1127,9 +1367,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Georgia - Tbilisi
-![🇬🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ea.png)<details>
+![🇬🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ea.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Georgian  
 **Currencies:** lari (₾)  
@@ -1141,9 +1384,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Guernsey - St. Peter Port
-![🇬🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ec.png)<details>
+![🇬🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ec.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** English, French, Guernésiais  
 **Currencies:** British pound (£), Guernsey pound (£)  
@@ -1155,9 +1401,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Ghana - Accra
-![🇬🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ed.png)<details>
+![🇬🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ed.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** English  
 **Currencies:** Ghanaian cedi (₵)  
@@ -1169,9 +1418,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Gibraltar - Gibraltar
-![🇬🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ee.png)<details>
+![🇬🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1ee.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** English  
 **Currencies:** Gibraltar pound (£)  
@@ -1183,9 +1435,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Guinea - Conakry
-![🇬🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f3.png)<details>
+![🇬🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f3.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** Guinean franc (Fr)  
@@ -1197,9 +1452,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Guadeloupe - Basse-Terre
-![🇬🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f5.png)<details>
+![🇬🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f5.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -1211,9 +1469,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Gambia - Banjul
-![🇬🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f2.png)<details>
+![🇬🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f2.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** English  
 **Currencies:** dalasi (D)  
@@ -1225,9 +1486,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Guinea-Bissau - Bissau
-![🇬🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1fc.png)<details>
+![🇬🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1fc.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** Portuguese, Upper Guinea Creole  
 **Currencies:** West African CFA franc (Fr)  
@@ -1239,9 +1503,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Equatorial Guinea - Malabo
-![🇬🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f6.png)<details>
+![🇬🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f6.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** French, Portuguese, Spanish  
 **Currencies:** Central African CFA franc (Fr)  
@@ -1253,9 +1520,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Greece - Athens
-![🇬🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f7.png)<details>
+![🇬🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f7.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Greek  
 **Currencies:** Euro (€)  
@@ -1267,9 +1537,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Grenada - St. George's
-![🇬🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1e9.png)<details>
+![🇬🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1e9.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -1281,9 +1554,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Greenland - Nuuk
-![🇬🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f1.png)<details>
+![🇬🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f1.png)
+
+
+
 **Region:** Americas (North America)  
 **Languages:** Greenlandic  
 **Currencies:** krone (kr.)  
@@ -1295,9 +1571,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Guatemala - Guatemala City
-![🇬🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f9.png)<details>
+![🇬🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f9.png)
+
+
+
 **Region:** Americas (Central America)  
 **Languages:** Spanish  
 **Currencies:** Guatemalan quetzal (Q)  
@@ -1309,9 +1588,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### French Guiana - Cayenne
-![🇬🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1eb.png)<details>
+![🇬🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1eb.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -1323,9 +1605,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Guam - Hagåtña
-![🇬🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1fa.png)<details>
+![🇬🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1fa.png)
+
+
+
 **Region:** Oceania (Micronesia)  
 **Languages:** Chamorro, English, Spanish  
 **Currencies:** United States dollar ($)  
@@ -1337,9 +1622,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Guyana - Georgetown
-![🇬🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1fe.png)<details>
+![🇬🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1fe.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** English  
 **Currencies:** Guyanese dollar ($)  
@@ -1351,9 +1639,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Hong Kong - City of Victoria
-![🇭🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f0.png)<details>
+![🇭🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f0.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** English, Chinese  
 **Currencies:** Hong Kong dollar ($)  
@@ -1365,9 +1656,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Heard Island and McDonald Islands - \[NO CAPITAL\]
-![🇭🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f2.png)<details>
+![🇭🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f2.png)
+
+
+
 **Region:** Antarctic ()  
 **Languages:** English  
 **Currencies:**  
@@ -1379,9 +1673,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Honduras - Tegucigalpa
-![🇭🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f3.png)<details>
+![🇭🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f3.png)
+
+
+
 **Region:** Americas (Central America)  
 **Languages:** Spanish  
 **Currencies:** Honduran lempira (L)  
@@ -1393,9 +1690,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Croatia - Zagreb
-![🇭🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f7.png)<details>
+![🇭🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f7.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Croatian  
 **Currencies:** Croatian kuna (kn)  
@@ -1407,9 +1707,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Haiti - Port-au-Prince
-![🇭🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f9.png)<details>
+![🇭🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1f9.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** French, Haitian Creole  
 **Currencies:** Haitian gourde (G)  
@@ -1421,9 +1724,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Hungary - Budapest
-![🇭🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1fa.png)<details>
+![🇭🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ed-1f1fa.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Hungarian  
 **Currencies:** Hungarian forint (Ft)  
@@ -1435,9 +1741,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Indonesia - Jakarta
-![🇮🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1e9.png)<details>
+![🇮🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1e9.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Indonesian  
 **Currencies:** Indonesian rupiah (Rp)  
@@ -1449,9 +1758,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Isle of Man - Douglas
-![🇮🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f2.png)<details>
+![🇮🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f2.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** English, Manx  
 **Currencies:** British pound (£), Manx pound (£)  
@@ -1463,9 +1775,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### India - New Delhi
-![🇮🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f3.png)<details>
+![🇮🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f3.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** English, Hindi, Tamil  
 **Currencies:** Indian rupee (₹)  
@@ -1477,9 +1792,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### British Indian Ocean Territory - Diego Garcia
-![🇮🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f4.png)<details>
+![🇮🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f4.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English  
 **Currencies:** United States dollar ($)  
@@ -1491,9 +1809,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Ireland - Dublin
-![🇮🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1ea.png)<details>
+![🇮🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1ea.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** English, Irish  
 **Currencies:** Euro (€)  
@@ -1505,9 +1826,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Iran - Tehran
-![🇮🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f7.png)<details>
+![🇮🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f7.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** Persian (Farsi)  
 **Currencies:** Iranian rial (﷼)  
@@ -1519,9 +1843,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Iraq - Baghdad
-![🇮🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f6.png)<details>
+![🇮🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f6.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic, Aramaic, Sorani  
 **Currencies:** Iraqi dinar (ع.د)  
@@ -1533,9 +1860,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Iceland - Reykjavik
-![🇮🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f8.png)<details>
+![🇮🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f8.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Icelandic  
 **Currencies:** Icelandic króna (kr)  
@@ -1547,9 +1877,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Israel - Jerusalem
-![🇮🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f1.png)<details>
+![🇮🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f1.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic, Hebrew  
 **Currencies:** Israeli new shekel (₪)  
@@ -1561,9 +1894,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Italy - Rome
-![🇮🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f9.png)<details>
+![🇮🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ee-1f1f9.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Italian  
 **Currencies:** Euro (€)  
@@ -1575,9 +1911,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Jamaica - Kingston
-![🇯🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1f2.png)<details>
+![🇯🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1f2.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English, Jamaican Patois  
 **Currencies:** Jamaican dollar ($)  
@@ -1589,9 +1928,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Jersey - Saint Helier
-![🇯🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1ea.png)<details>
+![🇯🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1ea.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** English, French, Jèrriais  
 **Currencies:** British pound (£), Jersey pound (£)  
@@ -1603,9 +1945,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Jordan - Amman
-![🇯🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1f4.png)<details>
+![🇯🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1f4.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Jordanian dinar (د.ا)  
@@ -1617,9 +1962,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Japan - Tokyo
-![🇯🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1f5.png)<details>
+![🇯🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ef-1f1f5.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** Japanese  
 **Currencies:** Japanese yen (¥)  
@@ -1631,9 +1979,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Kazakhstan - Nur-Sultan
-![🇰🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ff.png)<details>
+![🇰🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ff.png)
+
+
+
 **Region:** Asia (Central Asia)  
 **Languages:** Kazakh, Russian  
 **Currencies:** Kazakhstani tenge (₸)  
@@ -1645,9 +1996,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Kenya - Nairobi
-![🇰🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ea.png)<details>
+![🇰🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ea.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English, Swahili  
 **Currencies:** Kenyan shilling (Sh)  
@@ -1659,9 +2013,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Kyrgyzstan - Bishkek
-![🇰🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ec.png)<details>
+![🇰🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ec.png)
+
+
+
 **Region:** Asia (Central Asia)  
 **Languages:** Kyrgyz, Russian  
 **Currencies:** Kyrgyzstani som (с)  
@@ -1673,9 +2030,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Cambodia - Phnom Penh
-![🇰🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ed.png)<details>
+![🇰🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ed.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Khmer  
 **Currencies:** Cambodian riel (៛), United States dollar ($)  
@@ -1687,9 +2047,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Kiribati - South Tarawa
-![🇰🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ee.png)<details>
+![🇰🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1ee.png)
+
+
+
 **Region:** Oceania (Micronesia)  
 **Languages:** English, Gilbertese  
 **Currencies:** Australian dollar ($), Kiribati dollar ($)  
@@ -1701,9 +2064,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Saint Kitts and Nevis - Basseterre
-![🇰🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f3.png)<details>
+![🇰🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f3.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -1715,9 +2081,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### South Korea - Seoul
-![🇰🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f7.png)<details>
+![🇰🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f7.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** Korean  
 **Currencies:** South Korean won (₩)  
@@ -1729,9 +2098,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Kosovo - Pristina
-![🇽🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fd-1f1f0.png)<details>
+![🇽🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fd-1f1f0.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Albanian, Serbian  
 **Currencies:** Euro (€)  
@@ -1743,9 +2115,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Kuwait - Kuwait City
-![🇰🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1fc.png)<details>
+![🇰🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1fc.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Kuwaiti dinar (د.ك)  
@@ -1757,9 +2132,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Laos - Vientiane
-![🇱🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1e6.png)<details>
+![🇱🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1e6.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Lao  
 **Currencies:** Lao kip (₭)  
@@ -1771,9 +2149,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Lebanon - Beirut
-![🇱🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1e7.png)<details>
+![🇱🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1e7.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic, French  
 **Currencies:** Lebanese pound (ل.ل)  
@@ -1785,9 +2166,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Liberia - Monrovia
-![🇱🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f7.png)<details>
+![🇱🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f7.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** English  
 **Currencies:** Liberian dollar ($)  
@@ -1799,9 +2183,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Libya - Tripoli
-![🇱🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1fe.png)<details>
+![🇱🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1fe.png)
+
+
+
 **Region:** Africa (Northern Africa)  
 **Languages:** Arabic  
 **Currencies:** Libyan dinar (ل.د)  
@@ -1813,9 +2200,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Saint Lucia - Castries
-![🇱🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1e8.png)<details>
+![🇱🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1e8.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -1827,9 +2217,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Liechtenstein - Vaduz
-![🇱🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1ee.png)<details>
+![🇱🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1ee.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** German  
 **Currencies:** Swiss franc (Fr)  
@@ -1841,9 +2234,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Sri Lanka - Colombo
-![🇱🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f0.png)<details>
+![🇱🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f0.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** Sinhala, Tamil  
 **Currencies:** Sri Lankan rupee (Rs රු)  
@@ -1855,9 +2251,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Lesotho - Maseru
-![🇱🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f8.png)<details>
+![🇱🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f8.png)
+
+
+
 **Region:** Africa (Southern Africa)  
 **Languages:** English, Sotho  
 **Currencies:** Lesotho loti (L), South African rand (R)  
@@ -1869,9 +2268,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Lithuania - Vilnius
-![🇱🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f9.png)<details>
+![🇱🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1f9.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Lithuanian  
 **Currencies:** Euro (€)  
@@ -1883,9 +2285,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Luxembourg - Luxembourg
-![🇱🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1fa.png)<details>
+![🇱🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1fa.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** German, French, Luxembourgish  
 **Currencies:** Euro (€)  
@@ -1897,9 +2302,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Latvia - Riga
-![🇱🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1fb.png)<details>
+![🇱🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f1-1f1fb.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Latvian  
 **Currencies:** Euro (€)  
@@ -1911,9 +2319,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Macau - \[NO CAPITAL\]
-![🇲🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f4.png)<details>
+![🇲🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f4.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** Portuguese, Chinese  
 **Currencies:** Macanese pataca (P)  
@@ -1925,9 +2336,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Saint Martin - Marigot
-![🇲🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1eb.png)<details>
+![🇲🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1eb.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -1939,9 +2353,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Morocco - Rabat
-![🇲🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1e6.png)<details>
+![🇲🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1e6.png)
+
+
+
 **Region:** Africa (Northern Africa)  
 **Languages:** Arabic, Berber  
 **Currencies:** Moroccan dirham (د.م.)  
@@ -1953,9 +2370,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Monaco - Monaco
-![🇲🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1e8.png)<details>
+![🇲🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1e8.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -1967,9 +2387,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Moldova - Chișinău
-![🇲🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1e9.png)<details>
+![🇲🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1e9.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Moldavian  
 **Currencies:** Moldovan leu (L)  
@@ -1981,9 +2404,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Madagascar - Antananarivo
-![🇲🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ec.png)<details>
+![🇲🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ec.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** French, Malagasy  
 **Currencies:** Malagasy ariary (Ar)  
@@ -1995,9 +2421,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Maldives - Malé
-![🇲🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fb.png)<details>
+![🇲🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fb.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** Maldivian  
 **Currencies:** Maldivian rufiyaa (.ރ)  
@@ -2009,9 +2438,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Mexico - Mexico City
-![🇲🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fd.png)<details>
+![🇲🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fd.png)
+
+
+
 **Region:** Americas (North America)  
 **Languages:** Spanish  
 **Currencies:** Mexican peso ($)  
@@ -2023,9 +2455,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Marshall Islands - Majuro
-![🇲🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ed.png)<details>
+![🇲🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ed.png)
+
+
+
 **Region:** Oceania (Micronesia)  
 **Languages:** English, Marshallese  
 **Currencies:** United States dollar ($)  
@@ -2037,9 +2472,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### North Macedonia - Skopje
-![🇲🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f0.png)<details>
+![🇲🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f0.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Macedonian  
 **Currencies:** denar (den)  
@@ -2051,9 +2489,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Mali - Bamako
-![🇲🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f1.png)<details>
+![🇲🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f1.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** West African CFA franc (Fr)  
@@ -2065,9 +2506,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Malta - Valletta
-![🇲🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f9.png)<details>
+![🇲🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f9.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** English, Maltese  
 **Currencies:** Euro (€)  
@@ -2079,9 +2523,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Myanmar - Naypyidaw
-![🇲🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f2.png)<details>
+![🇲🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f2.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Burmese  
 **Currencies:** Burmese kyat (Ks)  
@@ -2093,9 +2540,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Montenegro - Podgorica
-![🇲🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ea.png)<details>
+![🇲🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ea.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Montenegrin  
 **Currencies:** Euro (€)  
@@ -2107,9 +2557,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Mongolia - Ulan Bator
-![🇲🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f3.png)<details>
+![🇲🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f3.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** Mongolian  
 **Currencies:** Mongolian tögrög (₮)  
@@ -2121,9 +2574,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Northern Mariana Islands - Saipan
-![🇲🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f5.png)<details>
+![🇲🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f5.png)
+
+
+
 **Region:** Oceania (Micronesia)  
 **Languages:** Carolinian, Chamorro, English  
 **Currencies:** United States dollar ($)  
@@ -2135,9 +2591,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Mozambique - Maputo
-![🇲🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ff.png)<details>
+![🇲🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1ff.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Portuguese  
 **Currencies:** Mozambican metical (MT)  
@@ -2149,9 +2608,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Mauritania - Nouakchott
-![🇲🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f7.png)<details>
+![🇲🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f7.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** Arabic  
 **Currencies:** Mauritanian ouguiya (UM)  
@@ -2163,9 +2625,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Montserrat - Plymouth
-![🇲🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f8.png)<details>
+![🇲🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f8.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -2177,9 +2642,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Martinique - Fort-de-France
-![🇲🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f6.png)<details>
+![🇲🇶](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1f6.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -2191,9 +2659,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Mauritius - Port Louis
-![🇲🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fa.png)<details>
+![🇲🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fa.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English, French, Mauritian Creole  
 **Currencies:** Mauritian rupee (₨)  
@@ -2205,9 +2676,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Malawi - Lilongwe
-![🇲🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fc.png)<details>
+![🇲🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fc.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English, Chewa  
 **Currencies:** Malawian kwacha (MK)  
@@ -2219,9 +2693,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Malaysia - Kuala Lumpur
-![🇲🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fe.png)<details>
+![🇲🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f2-1f1fe.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** English, Malay  
 **Currencies:** Malaysian ringgit (RM)  
@@ -2233,9 +2710,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Mayotte - Mamoudzou
-![🇾🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fe-1f1f9.png)<details>
+![🇾🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fe-1f1f9.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -2247,9 +2727,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Namibia - Windhoek
-![🇳🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1e6.png)<details>
+![🇳🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1e6.png)
+
+
+
 **Region:** Africa (Southern Africa)  
 **Languages:** Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana  
 **Currencies:** Namibian dollar ($), South African rand (R)  
@@ -2261,9 +2744,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### New Caledonia - Nouméa
-![🇳🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1e8.png)<details>
+![🇳🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1e8.png)
+
+
+
 **Region:** Oceania (Melanesia)  
 **Languages:** French  
 **Currencies:** CFP franc (₣)  
@@ -2275,9 +2761,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Niger - Niamey
-![🇳🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ea.png)<details>
+![🇳🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ea.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** West African CFA franc (Fr)  
@@ -2289,9 +2778,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Norfolk Island - Kingston
-![🇳🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1eb.png)<details>
+![🇳🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1eb.png)
+
+
+
 **Region:** Oceania (Australia and New Zealand)  
 **Languages:** English, Norfuk  
 **Currencies:** Australian dollar ($)  
@@ -2303,9 +2795,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Nigeria - Abuja
-![🇳🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ec.png)<details>
+![🇳🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ec.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** English  
 **Currencies:** Nigerian naira (₦)  
@@ -2317,9 +2812,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Nicaragua - Managua
-![🇳🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ee.png)<details>
+![🇳🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ee.png)
+
+
+
 **Region:** Americas (Central America)  
 **Languages:** Spanish  
 **Currencies:** Nicaraguan córdoba (C$)  
@@ -2331,9 +2829,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Niue - Alofi
-![🇳🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1fa.png)<details>
+![🇳🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1fa.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English, Niuean  
 **Currencies:** New Zealand dollar ($)  
@@ -2345,9 +2846,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Netherlands - Amsterdam
-![🇳🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f1.png)<details>
+![🇳🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f1.png)
+
+
+
 **Region:** Europe (Western Europe)  
 **Languages:** Dutch  
 **Currencies:** Euro (€)  
@@ -2359,9 +2863,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Norway - Oslo
-![🇳🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f4.png)<details>
+![🇳🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f4.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Norwegian Nynorsk, Norwegian Bokmål, Sami  
 **Currencies:** Norwegian krone (kr)  
@@ -2373,9 +2880,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Nepal - Kathmandu
-![🇳🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f5.png)<details>
+![🇳🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f5.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** Nepali  
 **Currencies:** Nepalese rupee (₨)  
@@ -2387,9 +2897,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Nauru - Yaren
-![🇳🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f7.png)<details>
+![🇳🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1f7.png)
+
+
+
 **Region:** Oceania (Micronesia)  
 **Languages:** English, Nauru  
 **Currencies:** Australian dollar ($)  
@@ -2401,9 +2914,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### New Zealand - Wellington
-![🇳🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ff.png)<details>
+![🇳🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f3-1f1ff.png)
+
+
+
 **Region:** Oceania (Australia and New Zealand)  
 **Languages:** English, Māori, New Zealand Sign Language  
 **Currencies:** New Zealand dollar ($)  
@@ -2415,9 +2931,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Oman - Muscat
-![🇴🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f4-1f1f2.png)<details>
+![🇴🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f4-1f1f2.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Omani rial (ر.ع.)  
@@ -2429,9 +2948,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Pakistan - Islamabad
-![🇵🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f0.png)<details>
+![🇵🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f0.png)
+
+
+
 **Region:** Asia (Southern Asia)  
 **Languages:** English, Urdu  
 **Currencies:** Pakistani rupee (₨)  
@@ -2443,9 +2965,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Panama - Panama City
-![🇵🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1e6.png)<details>
+![🇵🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1e6.png)
+
+
+
 **Region:** Americas (Central America)  
 **Languages:** Spanish  
 **Currencies:** Panamanian balboa (B/.), United States dollar ($)  
@@ -2457,9 +2982,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Pitcairn Islands - Adamstown
-![🇵🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f3.png)<details>
+![🇵🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f3.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English  
 **Currencies:** New Zealand dollar ($)  
@@ -2471,9 +2999,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Peru - Lima
-![🇵🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1ea.png)<details>
+![🇵🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1ea.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Aymara, Quechua, Spanish  
 **Currencies:** Peruvian sol (S/.)  
@@ -2485,9 +3016,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Philippines - Manila
-![🇵🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1ed.png)<details>
+![🇵🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1ed.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** English, Filipino  
 **Currencies:** Philippine peso (₱)  
@@ -2499,9 +3033,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Palau - Ngerulmud
-![🇵🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1fc.png)<details>
+![🇵🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1fc.png)
+
+
+
 **Region:** Oceania (Micronesia)  
 **Languages:** English, Palauan  
 **Currencies:** United States dollar ($)  
@@ -2513,9 +3050,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Papua New Guinea - Port Moresby
-![🇵🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1ec.png)<details>
+![🇵🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1ec.png)
+
+
+
 **Region:** Oceania (Melanesia)  
 **Languages:** English, Hiri Motu, Tok Pisin  
 **Currencies:** Papua New Guinean kina (K)  
@@ -2527,9 +3067,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Poland - Warsaw
-![🇵🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f1.png)<details>
+![🇵🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f1.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Polish  
 **Currencies:** Polish złoty (zł)  
@@ -2541,9 +3084,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Puerto Rico - San Juan
-![🇵🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f7.png)<details>
+![🇵🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f7.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English, Spanish  
 **Currencies:** United States dollar ($)  
@@ -2555,9 +3101,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### North Korea - Pyongyang
-![🇰🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f5.png)<details>
+![🇰🇵](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f0-1f1f5.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** Korean  
 **Currencies:** North Korean won (₩)  
@@ -2569,9 +3118,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Portugal - Lisbon
-![🇵🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f9.png)<details>
+![🇵🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f9.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Portuguese  
 **Currencies:** Euro (€)  
@@ -2583,9 +3135,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Paraguay - Asunción
-![🇵🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1fe.png)<details>
+![🇵🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1fe.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Guaraní, Spanish  
 **Currencies:** Paraguayan guaraní (₲)  
@@ -2597,9 +3152,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Palestine - Ramallah
-![🇵🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f8.png)<details>
+![🇵🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f8.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Egyptian pound (E£), Israeli new shekel (₪), Jordanian dinar (JD)  
@@ -2611,9 +3169,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### French Polynesia - Papeetē
-![🇵🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1eb.png)<details>
+![🇵🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1eb.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** French  
 **Currencies:** CFP franc (₣)  
@@ -2625,9 +3186,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Qatar - Doha
-![🇶🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f6-1f1e6.png)<details>
+![🇶🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f6-1f1e6.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Qatari riyal (ر.ق)  
@@ -2639,9 +3203,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Réunion - Saint-Denis
-![🇷🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1ea.png)<details>
+![🇷🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1ea.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -2653,9 +3220,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Romania - Bucharest
-![🇷🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1f4.png)<details>
+![🇷🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1f4.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Romanian  
 **Currencies:** Romanian leu (lei)  
@@ -2667,9 +3237,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Russia - Moscow
-![🇷🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1fa.png)<details>
+![🇷🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1fa.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Russian  
 **Currencies:** Russian ruble (₽)  
@@ -2681,9 +3254,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Rwanda - Kigali
-![🇷🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1fc.png)<details>
+![🇷🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1fc.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English, French, Kinyarwanda  
 **Currencies:** Rwandan franc (Fr)  
@@ -2695,9 +3271,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Saudi Arabia - Riyadh
-![🇸🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e6.png)<details>
+![🇸🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e6.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Saudi riyal (ر.س)  
@@ -2709,9 +3288,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Sudan - Khartoum
-![🇸🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e9.png)<details>
+![🇸🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e9.png)
+
+
+
 **Region:** Africa (Northern Africa)  
 **Languages:** Arabic, English  
 **Currencies:** Sudanese pound ()  
@@ -2723,9 +3305,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Senegal - Dakar
-![🇸🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f3.png)<details>
+![🇸🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f3.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** West African CFA franc (Fr)  
@@ -2737,9 +3322,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Singapore - Singapore
-![🇸🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ec.png)<details>
+![🇸🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ec.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Chinese, English, Malay, Tamil  
 **Currencies:** Singapore dollar ($)  
@@ -2751,9 +3339,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### South Georgia - King Edward Point
-![🇬🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f8.png)<details>
+![🇬🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ec-1f1f8.png)
+
+
+
 **Region:** Antarctic ()  
 **Languages:** English  
 **Currencies:** Saint Helena pound (£)  
@@ -2765,9 +3356,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Svalbard and Jan Mayen - Longyearbyen
-![🇸🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ef.png)<details>
+![🇸🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ef.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Norwegian  
 **Currencies:** krone (kr)  
@@ -2779,9 +3373,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Solomon Islands - Honiara
-![🇸🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e7.png)<details>
+![🇸🇧](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e7.png)
+
+
+
 **Region:** Oceania (Melanesia)  
 **Languages:** English  
 **Currencies:** Solomon Islands dollar ($)  
@@ -2793,9 +3390,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Sierra Leone - Freetown
-![🇸🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f1.png)<details>
+![🇸🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f1.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** English  
 **Currencies:** Sierra Leonean leone (Le)  
@@ -2807,9 +3407,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### El Salvador - San Salvador
-![🇸🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1fb.png)<details>
+![🇸🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1fb.png)
+
+
+
 **Region:** Americas (Central America)  
 **Languages:** Spanish  
 **Currencies:** United States dollar ($)  
@@ -2821,9 +3424,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### San Marino - City of San Marino
-![🇸🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f2.png)<details>
+![🇸🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f2.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Italian  
 **Currencies:** Euro (€)  
@@ -2835,9 +3441,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Somalia - Mogadishu
-![🇸🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f4.png)<details>
+![🇸🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f4.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Arabic, Somali  
 **Currencies:** Somali shilling (Sh)  
@@ -2849,9 +3458,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Saint Pierre and Miquelon - Saint-Pierre
-![🇵🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f2.png)<details>
+![🇵🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f5-1f1f2.png)
+
+
+
 **Region:** Americas (North America)  
 **Languages:** French  
 **Currencies:** Euro (€)  
@@ -2863,9 +3475,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Serbia - Belgrade
-![🇷🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1f8.png)<details>
+![🇷🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f7-1f1f8.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Serbian  
 **Currencies:** Serbian dinar (дин.)  
@@ -2877,9 +3492,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### South Sudan - Juba
-![🇸🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f8.png)<details>
+![🇸🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f8.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** English  
 **Currencies:** South Sudanese pound (£)  
@@ -2891,9 +3509,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### São Tomé and Príncipe - São Tomé
-![🇸🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f9.png)<details>
+![🇸🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f9.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** Portuguese  
 **Currencies:** São Tomé and Príncipe dobra (Db)  
@@ -2905,9 +3526,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Suriname - Paramaribo
-![🇸🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f7.png)<details>
+![🇸🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f7.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Dutch  
 **Currencies:** Surinamese dollar ($)  
@@ -2919,9 +3543,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Slovakia - Bratislava
-![🇸🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f0.png)<details>
+![🇸🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1f0.png)
+
+
+
 **Region:** Europe (Central Europe)  
 **Languages:** Slovak  
 **Currencies:** Euro (€)  
@@ -2933,9 +3560,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Slovenia - Ljubljana
-![🇸🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ee.png)<details>
+![🇸🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ee.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Slovene  
 **Currencies:** Euro (€)  
@@ -2947,9 +3577,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Sweden - Stockholm
-![🇸🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ea.png)<details>
+![🇸🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ea.png)
+
+
+
 **Region:** Europe (Northern Europe)  
 **Languages:** Swedish  
 **Currencies:** Swedish krona (kr)  
@@ -2961,9 +3594,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Eswatini - Lobamba
-![🇸🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ff.png)<details>
+![🇸🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1ff.png)
+
+
+
 **Region:** Africa (Southern Africa)  
 **Languages:** English, Swazi  
 **Currencies:** Swazi lilangeni (L), South African rand (R)  
@@ -2975,9 +3611,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Sint Maarten - Philipsburg
-![🇸🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1fd.png)<details>
+![🇸🇽](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1fd.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English, French, Dutch  
 **Currencies:** Netherlands Antillean guilder (ƒ)  
@@ -2989,9 +3628,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Seychelles - Victoria
-![🇸🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e8.png)<details>
+![🇸🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1e8.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Seychellois Creole, English, French  
 **Currencies:** Seychellois rupee (₨)  
@@ -3003,9 +3645,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Syria - Damascus
-![🇸🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1fe.png)<details>
+![🇸🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f8-1f1fe.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Syrian pound (£)  
@@ -3017,9 +3662,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Turks and Caicos Islands - Cockburn Town
-![🇹🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1e8.png)<details>
+![🇹🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1e8.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** United States dollar ($)  
@@ -3031,9 +3679,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Chad - N'Djamena
-![🇹🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1e9.png)<details>
+![🇹🇩](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1e9.png)
+
+
+
 **Region:** Africa (Middle Africa)  
 **Languages:** Arabic, French  
 **Currencies:** Central African CFA franc (Fr)  
@@ -3045,9 +3696,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Togo - Lomé
-![🇹🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ec.png)<details>
+![🇹🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ec.png)
+
+
+
 **Region:** Africa (Western Africa)  
 **Languages:** French  
 **Currencies:** West African CFA franc (Fr)  
@@ -3059,9 +3713,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Thailand - Bangkok
-![🇹🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ed.png)<details>
+![🇹🇭](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ed.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Thai  
 **Currencies:** Thai baht (฿)  
@@ -3073,9 +3730,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Tajikistan - Dushanbe
-![🇹🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ef.png)<details>
+![🇹🇯](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ef.png)
+
+
+
 **Region:** Asia (Central Asia)  
 **Languages:** Russian, Tajik  
 **Currencies:** Tajikistani somoni (ЅМ)  
@@ -3087,9 +3747,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Tokelau - Fakaofo
-![🇹🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f0.png)<details>
+![🇹🇰](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f0.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English, Samoan, Tokelauan  
 **Currencies:** New Zealand dollar ($)  
@@ -3101,9 +3764,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Turkmenistan - Ashgabat
-![🇹🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f2.png)<details>
+![🇹🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f2.png)
+
+
+
 **Region:** Asia (Central Asia)  
 **Languages:** Russian, Turkmen  
 **Currencies:** Turkmenistan manat (m)  
@@ -3115,9 +3781,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Timor-Leste - Dili
-![🇹🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f1.png)<details>
+![🇹🇱](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f1.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Portuguese, Tetum  
 **Currencies:** United States dollar ($)  
@@ -3129,9 +3798,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Tonga - Nuku'alofa
-![🇹🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f4.png)<details>
+![🇹🇴](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f4.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English, Tongan  
 **Currencies:** Tongan paʻanga (T$)  
@@ -3143,9 +3815,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Trinidad and Tobago - Port of Spain
-![🇹🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f9.png)<details>
+![🇹🇹](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f9.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Trinidad and Tobago dollar ($)  
@@ -3157,9 +3832,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Tunisia - Tunis
-![🇹🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f3.png)<details>
+![🇹🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f3.png)
+
+
+
 **Region:** Africa (Northern Africa)  
 **Languages:** Arabic  
 **Currencies:** Tunisian dinar (د.ت)  
@@ -3171,9 +3849,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Turkey - Ankara
-![🇹🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f7.png)<details>
+![🇹🇷](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1f7.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Turkish  
 **Currencies:** Turkish lira (₺)  
@@ -3185,9 +3866,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Tuvalu - Funafuti
-![🇹🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1fb.png)<details>
+![🇹🇻](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1fb.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English, Tuvaluan  
 **Currencies:** Australian dollar ($), Tuvaluan dollar ($)  
@@ -3199,9 +3883,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Taiwan - Taipei
-![🇹🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1fc.png)<details>
+![🇹🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1fc.png)
+
+
+
 **Region:** Asia (Eastern Asia)  
 **Languages:** Chinese  
 **Currencies:** New Taiwan dollar ($)  
@@ -3213,9 +3900,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Tanzania - Dodoma
-![🇹🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ff.png)<details>
+![🇹🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1f9-1f1ff.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English, Swahili  
 **Currencies:** Tanzanian shilling (Sh)  
@@ -3227,9 +3917,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Uganda - Kampala
-![🇺🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1ec.png)<details>
+![🇺🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1ec.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English, Swahili  
 **Currencies:** Ugandan shilling (Sh)  
@@ -3241,9 +3934,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Ukraine - Kyiv
-![🇺🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1e6.png)<details>
+![🇺🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1e6.png)
+
+
+
 **Region:** Europe (Eastern Europe)  
 **Languages:** Ukrainian  
 **Currencies:** Ukrainian hryvnia (₴)  
@@ -3255,9 +3951,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### United States Minor Outlying Islands - \[NO CAPITAL\]
-![🇺🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1f2.png)<details>
+![🇺🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1f2.png)
+
+
+
 **Region:** Americas (North America)  
 **Languages:** English  
 **Currencies:** United States dollar ($)  
@@ -3269,9 +3968,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Uruguay - Montevideo
-![🇺🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1fe.png)<details>
+![🇺🇾](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1fe.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Spanish  
 **Currencies:** Uruguayan peso ($)  
@@ -3283,9 +3985,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### United States - Washington D.C.
-![🇺🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1f8.png)<details>
+![🇺🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1f8.png)
+
+
+
 **Region:** Americas (North America)  
 **Languages:** English  
 **Currencies:** United States dollar ($)  
@@ -3297,9 +4002,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Uzbekistan - Tashkent
-![🇺🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1ff.png)<details>
+![🇺🇿](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fa-1f1ff.png)
+
+
+
 **Region:** Asia (Central Asia)  
 **Languages:** Russian, Uzbek  
 **Currencies:** Uzbekistani soʻm (so'm)  
@@ -3311,9 +4019,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Vatican City - Vatican City
-![🇻🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1e6.png)<details>
+![🇻🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1e6.png)
+
+
+
 **Region:** Europe (Southern Europe)  
 **Languages:** Italian, Latin  
 **Currencies:** Euro (€)  
@@ -3325,9 +4036,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Saint Vincent and the Grenadines - Kingstown
-![🇻🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1e8.png)<details>
+![🇻🇨](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1e8.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** Eastern Caribbean dollar ($)  
@@ -3339,9 +4053,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Venezuela - Caracas
-![🇻🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1ea.png)<details>
+![🇻🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1ea.png)
+
+
+
 **Region:** Americas (South America)  
 **Languages:** Spanish  
 **Currencies:** Venezuelan bolívar soberano (Bs.S.)  
@@ -3353,9 +4070,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### British Virgin Islands - Road Town
-![🇻🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1ec.png)<details>
+![🇻🇬](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1ec.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** United States dollar ($)  
@@ -3367,9 +4087,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### United States Virgin Islands - Charlotte Amalie
-![🇻🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1ee.png)<details>
+![🇻🇮](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1ee.png)
+
+
+
 **Region:** Americas (Caribbean)  
 **Languages:** English  
 **Currencies:** United States dollar ($)  
@@ -3381,9 +4104,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Vietnam - Hanoi
-![🇻🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1f3.png)<details>
+![🇻🇳](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1f3.png)
+
+
+
 **Region:** Asia (South-Eastern Asia)  
 **Languages:** Vietnamese  
 **Currencies:** Vietnamese đồng (₫)  
@@ -3395,9 +4121,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Vanuatu - Port Vila
-![🇻🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1fa.png)<details>
+![🇻🇺](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fb-1f1fa.png)
+
+
+
 **Region:** Oceania (Melanesia)  
 **Languages:** Bislama, English, French  
 **Currencies:** Vanuatu vatu (Vt)  
@@ -3409,9 +4138,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Wallis and Futuna - Mata-Utu
-![🇼🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fc-1f1eb.png)<details>
+![🇼🇫](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fc-1f1eb.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** French  
 **Currencies:** CFP franc (₣)  
@@ -3423,9 +4155,12 @@
 **UN Member:** No  
 
 
-</details>
+
 ### Samoa - Apia
-![🇼🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fc-1f1f8.png)<details>
+![🇼🇸](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fc-1f1f8.png)
+
+
+
 **Region:** Oceania (Polynesia)  
 **Languages:** English, Samoan  
 **Currencies:** Samoan tālā (T)  
@@ -3437,9 +4172,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Yemen - Sana'a
-![🇾🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fe-1f1ea.png)<details>
+![🇾🇪](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1fe-1f1ea.png)
+
+
+
 **Region:** Asia (Western Asia)  
 **Languages:** Arabic  
 **Currencies:** Yemeni rial (﷼)  
@@ -3451,9 +4189,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### South Africa - Pretoria
-![🇿🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ff-1f1e6.png)<details>
+![🇿🇦](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ff-1f1e6.png)
+
+
+
 **Region:** Africa (Southern Africa)  
 **Languages:** Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu  
 **Currencies:** South African rand (R)  
@@ -3465,9 +4206,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Zambia - Lusaka
-![🇿🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ff-1f1f2.png)<details>
+![🇿🇲](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ff-1f1f2.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** English  
 **Currencies:** Zambian kwacha (ZK)  
@@ -3479,9 +4223,12 @@
 **UN Member:** Yes  
 
 
-</details>
+
 ### Zimbabwe - Harare
-![🇿🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ff-1f1fc.png)<details>
+![🇿🇼](https://twemoji.maxcdn.com/v/13.1.1/72x72/1f1ff-1f1fc.png)
+
+
+
 **Region:** Africa (Eastern Africa)  
 **Languages:** Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language  
 **Currencies:** Botswana pula (P), Chinese yuan (¥), Euro (€), British pound (£), Indian rupee (₹), Japanese yen (¥), United States dollar ($), South African rand (Rs), Zimbabwean bonds ($)  
@@ -3491,5 +4238,7 @@
 **Land Size:** 390757 km²  
 **Land Locked?:** Yes  
 **UN Member:** Yes
-</details>
+
+
+
 [Source](https://github.com/Lissy93/all-the-countries)
