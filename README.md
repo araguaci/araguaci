@@ -1,5 +1,6 @@
 ## Hey There 👋   
-  
+
+<table style="overflow: hidden; border: none; width:100%"><tr><td valign="top" width="80%">
 <a href="https://www.artesdosul.com" target="_blank">
 <img src="https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb" alt="website artesdosul" style="margin-bottom: 5px;" />
 </a>
@@ -23,6 +24,14 @@
 I’m a developer who has turned years of freelancing into a full-time career. 
 
 [What Motivates Me](https://araguaci.github.io/personality/)
+
+</td><td valign="top" width="70%">
+<div style="float: right;">
+  <a href="https://app.daily.dev/araguaci"><img src="https://api.daily.dev/devcards/a7833b94666144d5a78b067919d20817.png?r=dns" width="150" alt="araguaci's Dev Card"/></a>
+</div>
+</td>
+</tr>
+</table>
 
 <details>
   <summary><b>💫 For Soul</b></summary>
@@ -137,6 +146,8 @@ I’m a developer who has turned years of freelancing into a full-time career.
     </p>
 </details>
 
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=araguaci)
+
