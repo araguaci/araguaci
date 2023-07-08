@@ -123,7 +123,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 <details>
   <summary><b>📊 Summary</b></summary>
-    <p>  
+     
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&theme=blue&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&hide_border=true&theme=blue&bg_color=FFFFFF00&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -133,7 +133,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
   <a href="https://www.buymeacoffee.com/araguaci"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="araguaci" /></a>
 </p>
 
-    </p>
+     
 </details>
 
 <details>
