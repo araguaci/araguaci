@@ -19,10 +19,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/summary.svg
           committer_message: "? Updates metrics - summary"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           user: araguaci
           template: classic
           base: activity, community, repositories
