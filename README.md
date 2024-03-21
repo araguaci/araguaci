@@ -33,7 +33,8 @@ I’m a developer who has turned years of freelancing into a full-time career.
 </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Araguaci's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <details>
   <summary><b>💫 For Soul</b></summary>
