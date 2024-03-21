@@ -23,6 +23,8 @@
 ### Glad to see you here!  
 I’m a developer who has turned years of freelancing into a full-time career. 
 
+- 💬 Ask me about anything [here](https://github.com/araguaci/araguaci/issues)
+
 [What Motivates Me](https://araguaci.github.io/personality/)
 
 </td><td valign="top" width="70%">
@@ -33,7 +35,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 </tr>
 </table>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Araguaci's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![Araguaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=araguaci)](https://github.com/anuraghazra/github-readme-stats)> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <details>
