@@ -33,8 +33,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 </tr>
 </table>
 
-| [![Araguaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=araguaci)](https://github.com/anuraghazra/github-readme-stats)> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ 
 
 <details>
   <summary><b>💫 For Soul</b></summary>
@@ -128,14 +127,32 @@ I’m a developer who has turned years of freelancing into a full-time career.
 <details>
   <summary><b>📊 Summary</b></summary>
      
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&theme=blue&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&hide_border=true&theme=blue&bg_color=FFFFFF00&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=araguaci&theme=blue&hide_border=true&background=FFFFFF00">
-</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/araguaci"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="araguaci" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Araguaci</h1>
+<h3 align="center">A passionate php developer from Brazil. Currently in Santa Catarina - Brazil</h3>
+
+ 
+
+
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=araguaci&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=araguaci&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=araguaci&theme=default)  |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=araguaci&theme=default) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=araguaci&mode=weekly)](https://git.io/streak-stats) |
+| :-: | :-: |
+
+<h3 align="left">Buy me a coffee ☕:</h3>
+<p><a
+ href="https://www.buymeacoffee.com/araguaci">
+      <img align="left" 
+src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+height="40"  alt="araguaci" /></a></p><br><br>
+
+
+
+
+ 
+
 
 
 **[⬆️ Back to Top](#-hey-there-)**     
