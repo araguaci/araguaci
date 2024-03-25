@@ -16,9 +16,7 @@
 <a href="https://linkedin.com/in/araguaci" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/araguaci.andrade" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+ 
 
 ### Glad to see you here!  
 I’m a developer who has turned years of freelancing into a full-time career. 
