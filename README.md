@@ -123,7 +123,8 @@ I’m a developer who has turned years of freelancing into a full-time career.
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Escolas de Surf Credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
 
-       
+
+**[⬆️ Back to Top](#-hey-there-)**       
 </details>
 
 <details>
@@ -138,12 +139,13 @@ I’m a developer who has turned years of freelancing into a full-time career.
   <a href="https://www.buymeacoffee.com/araguaci"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="araguaci" /></a>
 </p>
 
-     
+
+**[⬆️ Back to Top](#-hey-there-)**     
 </details>
 
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=araguaci)
+
 
