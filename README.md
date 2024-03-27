@@ -27,7 +27,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 </td><td valign="top" width="70%">
 <div style="float: right;">
-  <a href="https://app.daily.dev/araguaci"><img src="https://api.daily.dev/devcards/a7833b94666144d5a78b067919d20817.png?r=dns" width="150" alt="araguaci's Dev Card"/></a>
+  <a href="https://app.daily.dev/araguaci"><img src="https://api.daily.dev/devcards/v2/tXi35VgFDcwkYUMWMFPag.png?type=default&r=490" width="356" alt="araguaci's Dev Card"/></a>
 </div>
 </td>
 </tr>
