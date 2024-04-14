@@ -18,7 +18,7 @@
 </a>
  
 
-### Glad to see you here!  
+### Glad to see you here! ✨  
 I’m a developer who has turned years of freelancing into a full-time career. 
 
 - 💬 Ask me about anything [here](https://github.com/araguaci/araguaci/issues)
@@ -103,14 +103,14 @@ I’m a developer who has turned years of freelancing into a full-time career.
   <summary><b>🛠️ Designer, Producer, Creator</b></summary>
      
 
-### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
+### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering ✨
 
   - [FLORIPA SURF CLUB SURF SCHOOL – A escola que ensina a surfar na praia com ondas perfeitas para iniciantes](http://floripasurfclub.com.br/)
   - [FLORIPA SUP CLUB - STAND UP PADDLE SURFCLUB](http://www.floripasupclub.com.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
   - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
 
-### F.E.C.E.E.S.S. ☆ A.C.E.S. SC
+### F.E.C.E.E.S.S. ☆ A.C.E.S. SC ✨
   
   Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina
 
