@@ -1,0 +1,27 @@
+name: RSS Feed to Markdown
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  convert_feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run RSS Feed to Markdown Action
+        uses: keiranlovett/rss-feed-to-markdown@main
+        with:
+          feed_url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuVczNc74_jsmgNlAhHbz-Q'
+          template_file: 'assets/template.md'
+          output_dir: '_posts/events/'
