@@ -16,7 +16,9 @@
 <a href="https://linkedin.com/in/araguaci" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- 
+ <a href="https://https://patron.com/artesdosul" target="_blank">
+<img src=https://badgen.net/badge/icon/patreon?icon=patreon&label alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 ### Glad to see you here! ✨  
 I’m a developer who has turned years of freelancing into a full-time career. 
