@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run RSS Feed to Markdown Action
-        uses: keiranlovett/rss-feed-to-markdown@main
+        uses: araguaci/rss-feed-to-markdown@main
         with:
           feed_url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuVczNc74_jsmgNlAhHbz-Q'
           template_file: 'assets/template.md'
