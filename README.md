@@ -107,6 +107,13 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering ✨
 
+Outros Projetos
+
+  - [Pátria Amada Brasil - Melhorias e Entregas do Governo Malvadão](https://patria-amada-brasil.vercel.app/)
+  - [Brasil Pela Liberdade](https://brasil-pela-liberdade.vercel.app/)
+  - [S.O.S. Terra](https://healing-sound-of-the-earth.vercel.app/)
+  - [Pela Paz na Terra](http://gaia.artesdosul.com/)
+  - [Jornada Seja Grato](https://jornada-seja-grato-araguaci.vercel.app/)
   - [FLORIPA SURF CLUB SURF SCHOOL – A escola que ensina a surfar na praia com ondas perfeitas para iniciantes](http://floripasurfclub.com.br/)
   - [FLORIPA SUP CLUB - STAND UP PADDLE SURFCLUB](http://www.floripasupclub.com.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
