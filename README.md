@@ -97,7 +97,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
     918197185    3396815  138 14111963    71042    419 814
     
-    SANTO, SANTO, SANTO, É O SENHOR DAS HOSTES DO UNIVERSO
+    🥇 SANTO, SANTO, SANTO, É O SENHOR DAS HOSTES DO UNIVERSO 🥇
     
     KODOISH, KODOISH, KODOISH ADONAI TSEBAYOTH
     
