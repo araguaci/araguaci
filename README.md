@@ -1,26 +1,14 @@
 ## 🔰 Hey There 👋   
 
-<table style="overflow: hidden; border: none; width:100%"><tr><td valign="top" width="80%">
-<a href="https://www.artesdosul.com" target="_blank">
-<img src="https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb" alt="website artesdosul" style="margin-bottom: 5px;" />
-</a>
-<a href="https://stop-war-for-ever.vercel.app" target="_blank">
-<img src="https://img.shields.io/endpoint?color=purple&label=STOP&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dstop" alt="website artesdosul" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/webmasterads1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white alt="twitter webmaster" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/araguaci" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="https://https://patron.com/artesdosul" target="_blank">
-<img src=https://badgen.net/badge/icon/patreon?icon=patreon&label alt=linkedin style="margin-bottom: 5px;" />
-</a> 
- <a href="https://img.shields.io/badges/static-badge" target="_blank">
-<img src=https://img.shields.io/badge/badge_by-shields.io-blue alt=shields.io style="margin-bottom: 5px;" />
-</a>  
+[![stop-war-for-ever](https://img.shields.io/endpoint?color=purple&label=STOP&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dstop)](https://stop-war-for-ever.vercel.app)
+[![Website](https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb)](https://www.artesdosul.com)
+[![X org](https://img.shields.io/badge/X_Org-%40webmaster-1d9bf0.svg)](https://x.com/webmasterads1)
+[![X person](https://img.shields.io/badge/X_User-%40araguaci-1d9bf0.svg)](https://x.com/araguaci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Araguaci-0077b5.svg)](https://www.linkedin.com/in/araguaci)
+[![Patron](https://badgen.net/badge/icon/patreon?icon=patreon&color=orange)](https://patreon.com/artesdosul) 
+[![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow)](https://buymeacoffee.com/araguaci)  
 
- 
+<table style="overflow: hidden; border: none; width:100%"><tr><td valign="top" width="80%">
 
 ### Glad to see you here! ✨  
 
