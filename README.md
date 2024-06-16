@@ -7,9 +7,6 @@
 <a href="https://stop-war-for-ever.vercel.app" target="_blank">
 <img src="https://img.shields.io/endpoint?color=purple&label=STOP&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dstop" alt="website artesdosul" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/araguaci" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white alt="twitter artesdosul" style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/webmasterads1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white alt="twitter webmaster" style="margin-bottom: 5px;" />
 </a>
@@ -18,7 +15,11 @@
 </a>
  <a href="https://https://patron.com/artesdosul" target="_blank">
 <img src=https://badgen.net/badge/icon/patreon?icon=patreon&label alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+ <a href="https://img.shields.io/badges/static-badge" target="_blank">
+<img src=https://img.shields.io/badge/badge_by-shields.io-blue alt=shields.io style="margin-bottom: 5px;" />
 </a>  
+
  
 
 ### Glad to see you here! ✨  
