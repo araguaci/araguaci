@@ -1,3 +1,11 @@
+## marketplace for top developers
+
+EN - Toptal is a marketplace for top developers, engineers, programmers, coders, architects, and consultants. Top companies and start-ups hire freelance developers from Toptal for their most mission-critical projects.
+
+PT - A Toptal é um mercado para os melhores desenvolvedores, engenheiros, programadores, programadores, arquitetos e consultores. As principais empresas e start-ups contratam desenvolvedores freelance da Toptal para seus projetos mais críticos.
+
+  - [https://www.toptal.com/developers](https://www.toptal.com/developers)
+
 ## Contratação sem quadros brancos
 
 Tradução de [https://github.com/poteto/hiring-without-whiteboards/](https://github.com/poteto/hiring-without-whiteboards/)
