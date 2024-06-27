@@ -27,7 +27,51 @@ I’m a developer who has turned years of freelancing into a full-time career.
 </tr>
 </table>
 
- 
+
+<details>
+  <summary>
+    <b>📌 Favorite Repos </b>
+  </summary>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/araguaci/portfolio-particles">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=portfolio-particles&theme=default" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/jornada-seja-grato">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=jornada-seja-grato&theme=default" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/araguaci/suntzu">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=suntzu&theme=default" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/solarstorm">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=solarstorm&theme=default" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/araguaci/brasil-pela-liberdade">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=brasil-pela-liberdade&theme=default" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/patria-amada-brasil">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=patria-amada-brasil&theme=default" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+
 
 <details>
   <summary><b>💫 For Soul</b></summary>
