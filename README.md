@@ -35,6 +35,18 @@ I’m a developer who has turned years of freelancing into a full-time career.
   <table>
     <tr>
       <td>
+        <a href="https://github.com/araguaci/abusofederal">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=abusofederal&theme=default" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/inprincipioverbum.github.io">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=inprincipioverbum.github.io&theme=default" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/araguaci/o-dominio-de-si-mesmo">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=o-dominio-de-si-mesmo&theme=default" />
         </a>
