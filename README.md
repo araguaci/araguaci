@@ -149,6 +149,18 @@ I’m a developer who has turned years of freelancing into a full-time career.
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/araguaci/drogavermelha">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=drogavermelha&theme=default" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/ponerologia-psicopatas-no-poder">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=ponerologia-psicopatas-no-poder&theme=default" />
+        </a>
+      </td>
+    </tr>
   </table>
 </details>
 
