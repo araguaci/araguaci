@@ -241,7 +241,7 @@ Outros Projetos
   - [S.O.S. Terra](https://healing-sound-of-the-earth.vercel.app/)
   - [Pela Paz na Terra](http://gaia.artesdosul.com/)
   - [Jornada Seja Grato](https://jornada-seja-grato-araguaci.vercel.app/)
-  - [FLORIPA SURF CLUB SURF SCHOOL – A escola que ensina a surfar na praia com ondas perfeitas para iniciantes](https://floripasurfclub.github.io/)
+  - [FLORIPA SURF CLUB SURF SCHOOL – A escola que ensina a surfar na praia com ondas perfeitas para iniciantes](https://floripasurfclub.com/)
   - [FLORIPA SUP CLUB - STAND UP PADDLE SURFCLUB](http://www.floripasupclub.com.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
   - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
