@@ -5,7 +5,7 @@
 [![X org](https://img.shields.io/badge/X_Org-%40artesdosul-1d9bf0.svg)](https://x.com/artesdosul)
 [![X person](https://img.shields.io/badge/X_User-%40araguaci-1d9bf0.svg)](https://x.com/araguaci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Araguaci-0077b5.svg)](https://www.linkedin.com/in/araguaci)
-[![Patron](https://badgen.net/badge/icon/patreon?icon=patreon&color=orange)](https://patreon.com/artesdosul) 
+[![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&color=orange)](https://patreon.com/artesdosul) 
 [![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow)](https://buymeacoffee.com/araguaci)  
 
 <table style="overflow: hidden; border: none; width:100%"><tr><td valign="top" width="80%">
