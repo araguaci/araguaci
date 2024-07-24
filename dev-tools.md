@@ -1,4 +1,6 @@
-## Tools  =====Explore a wide range of online tools, which includes CSS, code, image, SEO, converters, and string utilities.
+## Tools  
+
+Explore a wide range of online tools, which includes CSS, code, image, SEO, converters, and string utilities.
 
 ### CSS Utilities   
 
