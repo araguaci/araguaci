@@ -2,6 +2,10 @@
 
 Explore a wide range of online tools, which includes CSS, code, image, SEO, converters, and string utilities.
 
+### Google Forms
+
+  - [Build a standard HTML <form> using any Google Forms](https://stefano.brilli.me/google-forms-html-exporter/)
+
 ### CSS Utilities   
 
   - [Tools](https://codeshack.io/tools/)
@@ -9,6 +13,7 @@ Explore a wide range of online tools, which includes CSS, code, image, SEO, conv
 ### Code Utilities  
 
   - [### CSS Sprite Generator](https://codeshack.io/css-sprite-generator/)
+
 ### Converters   
 
   - [### Live Code Editor](https://codeshack.io/code-editor/)
