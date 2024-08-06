@@ -14,6 +14,10 @@
 
 I’m a developer who has turned years of freelancing into a full-time career. 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1065&width=700&height=30&lines=SANTO%2C+SANTO%2C+SANTO%2C+%C3%89+O+SENHOR+DAS+HOSTES+DO+UNIVERSO;KODOISH%2C+KODOISH%2C+KODOISH+ADONAI+TSEBAYOTH" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1065&width=700&height=30&lines=KODOISH%2C+KODOISH%2C+KODOISH+ADONAI+TSEBAYOTH;SANTO%2C+SANTO%2C+SANTO%2C+%C3%89+O+SENHOR+DAS+HOSTES+DO+UNIVERSO)](https://git.io/typing-svg)
+
 ![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
 
 
@@ -219,12 +223,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
 
 
 
-    918197185    3396815  138 14111963    71042    419 814
-    
-    🥇 SANTO, SANTO, SANTO, É O SENHOR DAS HOSTES DO UNIVERSO 🥇
-    
-    KODOISH, KODOISH, KODOISH ADONAI TSEBAYOTH
-    
+    🥇918197185    3396815  138 14111963    71042    419 814🥇
 
 </details>
 
