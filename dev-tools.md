@@ -2,6 +2,22 @@
 
 Explore a wide range of online tools, which includes CSS, code, image, SEO, converters, and string utilities.
 
+### Paid Tools x Free Tools
+
+*   [1:05](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=65s) Microsoft Office --> [LibreOffice](https://github.com/LibreOffice)
+*   [1:45](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=105s) Airtable --> [Nocodb](https://github.com/nocodb/nocodb)
+*   [2:08](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=128s) Notion --> [Appflowy](https://github.com/AppFlowy-IO/AppFlowy)
+*   [3:11](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=191s) Salesforce CRM --> [ERPNext](https://github.com/frappe/erpnext)
+*   [3:41](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=221s) Slack --> [Mattermost](https://github.com/mattermost/mattermost)
+*   [4:13](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=253s) Zoom --> [Jitsi](https://github.com/jitsi)
+*   [4:37](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=277s) Jira --> [Plane](https://github.com/makeplane/plane)
+*   [4:50](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=290s) FireBase --> Convex, Appwrite, Supabase, PocketBase, [Instant](https://github.com/instantdb/instant)
+*   [5:22](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=322s) Vercel/Heroku --> [Coolify](https://github.com/coollabsio/coolify) 
+*   [5:48](https://www.youtube.com/watch?v=e5dhaQm_J6U&t=348s) Adobe Premier/Illustrator/After Effects --> DaVinci Resolve
+
+  - [Appflowy](https://github.com/AppFlowy-IO/AppFlowy)
+  - [Dokku](https://github.com/dokku/dokku) 
+
 ### Google Forms
 
   - [Build a standard HTML <form> using any Google Forms](https://stefano.brilli.me/google-forms-html-exporter/)
