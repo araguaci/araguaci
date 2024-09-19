@@ -31,7 +31,6 @@ I’m a developer who has turned years of freelancing into a full-time career.
 </tr>
 </table>
 
-
 <details>
   <summary>
     <b>📌 Favorite Repos </b>
@@ -42,11 +41,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/abusofederal">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=abusofederal&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://abusofederal.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/Abuso%20Federal-212529?logo=typescript&logoColor=fff&style=flat" />
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/inprincipioverbum.github.io">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=inprincipioverbum.github.io&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://inprincipioverbum.github.io/">
+				<img align="center" src="https://badgen.net/badge/inprincipioverbum/personal-site?icon=github&color=620b47" />
+			</a>
+		</p>
       </td>
     </tr>
     <tr>
@@ -54,11 +63,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/o-dominio-de-si-mesmo">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=o-dominio-de-si-mesmo&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://odominiodesimesmo.netlify.app/">
+				<img align="center" src="https://img.shields.io/badge/odominiodesimesmo-4051b5?logo=netlify&logoColor=fff&style=flat" alt="o-dominio-de-si-mesmo">
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/earth-rainbow-bridge">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=earth-rainbow-bridge&theme=default" />
         </a>
+		<p align=center>
+			<a href="http://gaia.artesdosul.com/">
+				<img align="center" src="https://img.shields.io/badge/earthrainbowbridge-51338f?logo=javascript&logoColor=fff&style=flat" alt="earth-rainbow-bridge">
+			</a>
+		</p>
       </td>
     </tr>
     <tr>      
@@ -66,11 +85,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/portfolio-particles">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=portfolio-particles&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://portfolio-particles.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/portfolioparticles-265e39?logo=react&logoColor=fff&style=flat" alt="portfolio-particles">
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/jornada-seja-grato">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=jornada-seja-grato&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://jornada-seja-grato-araguaci.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/jornadasejagrato-a2681a?logo=javascript&logoColor=fff&style=flat" alt="portfolio-particles">
+			</a>
+		</p>
       </td>
     </tr>
     <tr>
@@ -78,11 +107,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/suntzu">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=suntzu&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://suntzu.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/suntzu-eb4346?logo=javascript&logoColor=fff&style=flat" alt="suntzu-US">
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/solarstorm">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=solarstorm&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://solarstorm.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/solarstorm-038d50?logo=astro&logoColor=fff&style=flat" alt="SOLAR STORM G5 Extreme Conditions Reached - 10/11/12 May 2024">
+			</a>
+		</p>
       </td>
     </tr>
     <tr>
@@ -90,11 +129,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/brasil-pela-liberdade">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=brasil-pela-liberdade&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://brasil-pela-liberdade.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/brasilpelaliberdade-fbdb04?logo=astro&logoColor=fff&style=flat" alt="✠ Brasil pela Liberdade ✠">
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/patria-amada-brasil">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=patria-amada-brasil&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://patria-amada-brasil.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/patriaamadabrasil-0d4a1b?logo=docusaurus&logoColor=fff&style=flat" alt="✠ Brasil pela Liberdade ✠">
+			</a>
+		</p>
       </td>
     </tr>
   </table>
@@ -341,5 +390,4 @@ height="40"  alt="araguaci" /></a></p><br><br>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
-
 
