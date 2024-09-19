@@ -107,6 +107,50 @@ I’m a developer who has turned years of freelancing into a full-time career.
   <table>
     <tr>
       <td>
+        <a href="https://github.com/araguaci/olavo-de-carvalho">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=olavo-de-carvalho&theme=default" />
+        </a>
+		<p align=center>
+			<a href="https://olavodecarvalho.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/olavo-de-carvalho/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/os-cinco-niveis-de-apego">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=os-cinco-niveis-de-apego&theme=default" />
+        </a>
+		<p align=center>
+			<a href="https://os-cinco-niveis-de-apego.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/os-cinco-niveis-de-apego/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/araguaci/ikigai">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=ikigai&theme=default" />
+        </a>
+		<p align=center>
+			<a href="https://ikigai-alpha.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/ikigai/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/kaizen">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=kaizen&theme=default" />
+        </a>
+		<p align=center>
+			<a href="https://ikigai-alpha.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/kaizen/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/araguaci/supremos-erros">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=supremos-erros&theme=default" />
         </a>
