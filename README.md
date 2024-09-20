@@ -204,11 +204,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/supremos-erros">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=supremos-erros&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://supremoserros.netlify.app/">
+				<img align="center" src="https://img.shields.io/badge/supremoserros-b30b00?logo=netlify&logoColor=fff&style=flat" alt="supremos-erros">
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/partido-das-sombras">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=partido-das-sombras&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://partido-das-sombras.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/partido-das-sombras/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
       </td>
     </tr>
     <tr>
@@ -216,11 +226,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/a-esperanca-estilhacada">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=a-esperanca-estilhacada&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://a-esperanca-estilhacada.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/a-esperanca-estilhacada/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/satiagraha">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=satiagraha&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://operacaosatiagraha.netlify.app/">
+				<img align="center" src="https://img.shields.io/badge/operacaosatiagraha-b30b00?logo=netlify&logoColor=fff&style=flat" alt="operacao-satiagraha">
+			</a>
+		</p>
       </td>
     </tr>
     <tr>      
@@ -228,11 +248,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/mentes-perigosas">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=mentes-perigosas&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://mentesperigosas.netlify.app/">
+				<img align="center" src="https://img.shields.io/badge/mentesperigosas-b30b00?logo=netlify&logoColor=fff&style=flat" alt="mentes-perigosas">
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/a-cura-em-1minuto">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=a-cura-em-1minuto&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://segredoparacura.netlify.app/">
+				<img align="center" src="https://img.shields.io/badge/segredoparacura-b30b00?logo=netlify&logoColor=fff&style=flat" alt="segredo-para-cura">
+			</a>
+		</p>
       </td>
     </tr>
     <tr>
@@ -240,11 +270,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/o-apagar-das-luzes">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=o-apagar-das-luzes&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://o-apagar-das-luzes.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/o-apagar-das-luzes/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/os-quatro-compromissos">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=os-quatro-compromissos&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://os-quatro-compromissos.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/os-quatro-compromissos/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
       </td>
     </tr>
     <tr>
@@ -252,11 +292,21 @@ I’m a developer who has turned years of freelancing into a full-time career.
         <a href="https://github.com/araguaci/drogavermelha">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=drogavermelha&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://drogavermelha.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/drogavermelha/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
       </td>
       <td>
         <a href="https://github.com/araguaci/ponerologia-psicopatas-no-poder">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=ponerologia-psicopatas-no-poder&theme=default" />
         </a>
+		<p align=center>
+			<a href="https://ponerologia-psicopatas-no-poder.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/ponerologia-psicopatas-no-poder/pdf?icon=vercel&color=red" />
+			</a>
+		</p>
       </td>
     </tr>
   </table>
@@ -391,4 +441,3 @@ height="40"  alt="araguaci" /></a></p><br><br>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
-
