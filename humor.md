@@ -1,0 +1,184 @@
+É muito comum no sul do Brasil, em especial no Rio Grande do Sul, a utilização de frases comparativas sempre que desejamos reafirmar algo do qual estamos falando que em geral resultam bem humoradas e cômicas.
+
+
+  - Mais aborrecido que viado em zona.
+  - Mais afiada que língua de sogra
+  - Mais afiada que navalha de barbeiro caprichoso
+  - Mais agarrado que velha numa moto.
+  - Mais amontoado que uva em cacho.
+  - Mais angustiado que barata de barriga pra cima.
+  - Mais ansioso que anão em comício.
+  - Mais apertado que alpargata de gordo.
+  - Mais apertado que bombacha de fresco.
+  - Mais apertado que chapéu novo.
+  - Mais apressado que cavalo de carteiro.
+  - Mais apressado que cuspida de músico.
+  - Mais asqueroso que colherada de ranho.
+  - Mais asqueroso que vomitar correndo.
+  - Mais assustado que cachorro em canoa.
+  - Mais atirado que alpargata em cancha de bocha.
+  - Mais babado que boi com aftosa.
+  - Mais branco que perna de freira.
+  - Mais caro que alimentar elefante com bombom.
+  - Mais caro que argentina nova na zona.
+  - Mais chato que dançar com a irmã.
+  - Mais chato que gilete caída em chão de banheiro.
+  - Mais chato que pernilongo gordo.
+  - Mais complicado que calça de polvo.
+  - Mais comprido que cuspe de bêbado.
+  - Mais comprido que esperança de pobre.
+  - Mais comprido que suspiro em velório.
+  - Mais comprido que trova de gago.
+  - Mais comprido que xingada de gago.
+  - Mais conhecido que a reza do padre-nosso.
+  - Mais conhecido que andar pra frente.
+  - Mais constrangido que padre em puteiro.
+  - Mais contente que centopéia de sapato novo.
+  - Mais contente que cão com dois rabos.
+  - Mais corado que bund@ de mandril.
+  - Mais curto que coice de porco.
+  - Mais curto que estribo de anão.
+  - Mais demorado que enterro de rico.
+  - Mais desconfiado que cego que tem amante.
+  - Mais desorientado que alpargata em cima do piano.
+  - Mais desorientado que mortadela em salada de frutas.
+  - Mais difícil que cagar em tubo de ensaio.
+  - Mais difícil que fazer gargarejo de bruços.
+  - Mais difícil que se limpar a bund@ com papel picado.
+  - Mais difícil que varrer escada à cima.
+  - Mais divertido que peido na jacuzzi.
+  - Mais doído que chute no saco.
+  - Mais doído que que tropeçar descalço.
+  - Mais duro que salame de colônia.
+  - Mais eficiente que japonês na roça.
+  - Mais empoeirado que rato de moinho.
+  - Mais encolhido que tripa na brasa.
+  - Mais enfeitado que burro de cigano em festa.
+  - Mais enfeitado que penteadeira de put@.
+  - Mais enfiado que cueca em bunda de gordo.
+  - Mais enrolado que briga de polvos.
+  - Mais enrolado que cristal para viagem.
+  - Mais enrolado que linguiça de venda.
+  - Mais ensebado que telefone de açougueiro
+  - Mais escondido que peito de freira.
+  - Mais estreito que garagem de bicicleta.
+  - Mais faceiro que gordo de camiseta.
+  - Mais faceiro que guri de calça nova.
+  - Mais faceiro que mosca em tampa de xarope.
+  - Mais faceiro que pinto ciscando.
+  - Mais faceiro que sapo em banhado.
+  - Mais falso que nota de três.
+  - Mais fechado que baú de solteirona.
+  - Mais fechado que porta de submarino.
+  - Mais fedido que bebê cag@do.
+  - Mais fedorento que arroto de corvo.
+  - Mais feio que bater na mãe pelada.
+  - Mais feio que briga de foice no escuro.
+  - Mais feio que cag@r de pé.
+  - Mais feio que cagar de bruço.
+  - Mais feio que encoxar a mãe no tanque em sexta feira santa.
+  - Mais feio que indigestão de torresmo.
+  - Mais feio que sapato de padre.
+  - Mais feliz que puta em dia de pagamento.
+  - Mais fino que assobio de papudo.
+  - Mais fino que freada de bicicleta.
+  - Mais firme que catarro em parede.
+  - Mais firme que palanque em banhado.
+  - Mais firme que prego na polenta.
+  - Mais folgado que colarinho de palhaço.
+  - Mais forte que peido de burro atolado.
+  - Mais forte que sapato de padre.
+  - Mais fresco que peido de pinguim.
+  - Mais fácil que tabuada do um.
+  - Mais fácil que tirar doce de guri.
+  - Mais gasto que fundilho de tropeiro.
+  - Mais gordo que mosca de mercearia.
+  - Mais gostoso que beijo de prima.
+  - Mais grosso que cintura de sapo.
+  - Mais grosso que dedo de gringo.
+  - Mais grosso que dedo destroncado.
+  - Mais grosso que rolha de poço.
+  - Mais imprestável que assento ejetor de helicóptero.
+  - Mais imprestável que fósforo a prova de fogo.
+  - Mais informado que gerente de funerária.
+  - Mais intrometida que piolho na costura.
+  - Mais inútil que alvo inflável para dardos.
+  - Mais inútil que buzina em avião.
+  - Mais inútil que cinzeiro de moto.
+  - Mais inútil que leque de papel higiénico.
+  - Mais inútil que mijar em incêndio.
+  - Mais inútil que para-lama de barco.
+  - Mais inútil que sauna no deserto.
+  - Mais judiado que ovo de ciclista.
+  - Mais lento que desfile de mancos.
+  - Mais lento que tartaruga grávida.
+  - Mais ligado que rádio de preso.
+  - Mais ligeiro que enterro de pobre.
+  - Mais linda que camisola de noiva.
+  - Mais liso que bunda de santo.
+  - Mais longo que arroto de girafa.
+  - Mais longo que esperança de pobre.
+  - Mais magro e comprido que o mapa de Chile.
+  - Mais magro que criança com solitária.
+  - Mais magro que piolho de peruca.
+  - Mais metido que merda em chinelo de dedo.
+  - Mais nervoso que anão em comício.
+  - Mais nervoso que gato em dia de faxina.
+  - Mais nervoso que peixe na Semana Santa.
+  - Mais nervoso que potro com mosca no ouvido.
+  - Mais nervoso que viado com diarreia.
+  - Mais nojento que mocotó de ontem.
+  - Mais nojento que vomitar para acima.
+  - Mais ocupado que bombeiro do Titanic.
+  - Mais pelado que sovaco de santo.
+  - Mais perdido que Adão no dia das Mães.
+  - Mais perdido que azeitona em pão doce.
+  - Mais perdido que cachorro em dia de mudança.
+  - Mais perdido que cachorro na procissão.
+  - Mais perdido que cebola em salada de frutas.
+  - Mais perdido que cego em tiroteio.
+  - Mais perdido que cão que caiu do caminhão de mudança.
+  - Mais perdido que Jesus no dia dos pais.
+  - Mais perdido que marinheiro na Bolívia.
+  - Mais perdido que surdo em bingo.
+  - Mais perdido que Tarzan numa reunião de consórcio.
+  - Mais perfumado que mão de barbeiro.
+  - Mais perigoso que barbeiro com soluço.
+  - Mais perigoso que cirurgião com soluço.
+  - Mais perigoso que macaco com navalha.
+  - Mais perigoso que muleta com rodinhas.
+  - Mais perigoso que trombada de anão.
+  - Mais pesado que mudança de ferreiro.
+  - Mais pesado que pastel de batata.
+  - Mais pesado que porta-avião a remo.
+  - Mais pesado que sono de surdo.
+  - Mais pesado que sopa de mercúrio.
+  - Mais pobre que rato de igreja.
+  - Mais por fora que arco de barrica.
+  - Mais por fora que bunda de índio.
+  - Mais por fora que cabelo de côco.
+  - Mais por fora que cotovelo de caminhoneiro.
+  - Mais por fora que quarto de empregada.
+  - Mais por fora que surdo em bingo.
+  - Mais por fora que umbigo de vedete.
+  - Mais preocupada que mãe de juiz.
+  - Mais preso que peido na frente do sogro.
+  - Mais quente que frigideira sem cabo.
+  - Mais rasteiro que umbigo de cobra.
+  - Mais ridículo que Tarzán com meias.
+  - Mais saltitante que manco em tiroteio.
+  - Mais sofrido que joelho de freira em semana Santa.
+  - Mais solto que peido em bombacha.
+  - Mais suado que freira atrasada.
+  - Mais suado que testemunha falsa.
+  - Mais sujo que pau de galinheiro.
+  - Mais surrado que joelho de sapateiro
+  - Mais sério que defunto.
+  - Mais tranquilo que água de poço.
+  - Mais util que seio nas costas.
+  - Mais vagabundo que arroto de mortadela.
+  - Mais velho que mijar pra frente.
+  - Mais velho que rascunho de Bíblia.
+  - Mais vermelho que pescoço de galo coió.
+  - Mais virado que bolacha em boca de velha.
+  - Mais áspero que língua de gato.
