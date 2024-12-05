@@ -1,4 +1,4 @@
-## [https://api.visitorbadge.io](https://api.visitorbadge.io)
+## [visitorbadge.io](https://visitorbadge.io/)
 
 ```
 <p id="visits">
