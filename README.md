@@ -38,6 +38,28 @@ I’m a developer who has turned years of freelancing into a full-time career.
   <table>
     <tr>
       <td>
+        <a href="https://github.com/araguaci/estudodamente">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=estudodamente&theme=default" />
+        </a>
+		<p align=center>
+			<a href="https://estudodamente.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/estudo-da-mente/personal-site?icon=jekyll&color=620b47" />
+			</a>
+		</p>
+      </td>
+      <td>
+        <a href="https://github.com/araguaci/olavo-de-carvalho">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=olavo-de-carvalho&theme=default" />
+        </a>
+		<p align=center>
+			<a href="https://olavodecarvalho.vercel.app/">
+				<img align="center" src="https://badgen.net/badge/olavo-de-carvalho/personal-site?icon=jekyll&color=620b47" />
+			</a>
+		</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/araguaci/abusofederal">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=abusofederal&theme=default" />
         </a>
@@ -53,7 +75,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
         </a>
 		<p align=center>
 			<a href="https://inprincipioverbum.github.io/">
-				<img align="center" src="https://badgen.net/badge/inprincipioverbum/personal-site?icon=github&color=620b47" />
+				<img align="center" src="https://badgen.net/badge/inprincipioverbum/personal-site?icon=jekyll&color=620b47" />
 			</a>
 		</p>
       </td>
