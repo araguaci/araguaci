@@ -133,7 +133,7 @@ Esses repositórios permitem que você conecte um modelo de linguagem a uma base
 
 ### 2. LlamaIndex  
 
-- Repositório: github.com/run-llama/llama_index  
+- Repositório: [github.com/run-llama/llama_index](https://github.com/run-llama/llama_index)
 
 - Descrição: Focado em indexar e consultar dados para alimentar modelos de linguagem. Ideal para criar chatbots que "lembram" do seu conteúdo.  
 
@@ -145,7 +145,7 @@ Esses repositórios permitem que você conecte um modelo de linguagem a uma base
 
 ### 3. Chatbase (Custom Chatbot Example)  
 
-- Repositório: Não há um repositório open-source oficial, mas veja exemplos como github.com/mckaywrigley/chatbot-ui  
+- Repositório: Não há um repositório open-source oficial, mas veja exemplos como [github.com/mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)  
 
 - Descrição: Chatbase é uma ferramenta comercial, mas esse repositório alternativo mostra como criar uma interface de chatbot com integração de dados personalizados usando APIs como a da OpenAI.  
 
@@ -159,7 +159,7 @@ Esses repositórios ajudam a treinar um modelo de linguagem com seus próprios d
 
 ### 4. Hugging Face Transformers  
 
-- Repositório: github.com/huggingface/transformers  
+- Repositório: [github.com/huggingface/transformers](https://github.com/huggingface/transformers)  
 
 - Descrição: Biblioteca padrão para treinar e ajustar modelos como GPT-2, LLaMA, Mistral, etc. Inclui scripts prontos para fine-tuning.  
 
@@ -171,7 +171,7 @@ Esses repositórios ajudam a treinar um modelo de linguagem com seus próprios d
 
 ### 5. SimpleTransformers  
 
-- Repositório: github.com/ThilinaRajapakse/simpletransformers  
+- Repositório: [github.com/ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers)  
 
 - Descrição: Uma camada simplificada sobre o Hugging Face Transformers, ideal para quem quer treinar modelos sem lidar com muita complexidade.  
 
@@ -183,7 +183,7 @@ Esses repositórios ajudam a treinar um modelo de linguagem com seus próprios d
 
 ### 6. Fine-Tune LLaMA Example  
 
-- Repositório: github.com/tloen/alpaca-lora  
+- Repositório: [github.com/tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
 
 - Descrição: Um exemplo prático de fine-tuning do modelo LLaMA usando LoRA (uma técnica eficiente que reduz o uso de memória).  
 
@@ -199,7 +199,7 @@ Se você quer não só treinar, mas também disponibilizar o chatbot:
 
 ### 7. Streamlit (Interface Simples)  
 
-- Repositório: github.com/streamlit/streamlit  
+- Repositório: [github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)  
 
 - Descrição: Framework para criar interfaces web interativas em Python. Pode ser combinado com LangChain ou LlamaIndex para exibir seu chatbot.  
 
@@ -211,7 +211,7 @@ Se você quer não só treinar, mas também disponibilizar o chatbot:
 
 ### 8. Gradio  
 
-- Repositório: github.com/gradio-app/gradio  
+- Repositório: [github.com/gradio-app/gradio](https://github.com/gradio-app/gradio)  
 
 - Descrição: Outra ferramenta para criar interfaces interativas para modelos de IA.  
 
