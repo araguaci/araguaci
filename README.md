@@ -1,10 +1,10 @@
 ## 🔰 Hey There 👋   
 
 [![stop-war-for-ever](https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&logoColor=00aced&style=flat)](https://stop-war-for-ever.vercel.app)
-[![ABUSO SUPREMO](https://img.shields.io/badge/ABUSO%20SUPREMO-351d1d?logo=msi&logoColor=6bc175&style=flat)](https://abusosupremo.vercel.app)
-[![FUTURO ROUBADO](https://img.shields.io/badge/FUTURO%20ROUBADO-417547?logo=redragon&logoColor=efefef&style=flat)](https://futuroroubado.vercel.app)
-[![ABUSO FEDERAL](https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=diagramsdotnet&logoColor=bf2b2b&style=flat)](https://abusofederal.vercel.app)
-[![DEMOCRACIA ABALADA](https://img.shields.io/badge/DEMOCRACIA%20ABALADA-1E811F?logo=miraheze&logoColor=FFFC00&style=flat)](https://abaladademocracia.vercel.app)
+[![ABUSO SUPREMO](https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&logoColor=FED141&style=flat)](https://abusosupremo.vercel.app)
+[![FUTURO ROUBADO](https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&logoColor=FED141&style=flat)](https://futuroroubado.vercel.app)
+[![ABUSO FEDERAL](https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&logoColor=FED141&style=flat)](https://abusofederal.vercel.app)
+[![DEMOCRACIA ABALADA](https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&logoColor=FED141&style=flat)](https://abaladademocracia.vercel.app)
 <br/>
 [![Website](https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb)](https://www.artesdosul.com)
 [![X org](https://img.shields.io/badge/X_Org-%40artesdosul-1d9bf0.svg)](https://x.com/artesdosul)
