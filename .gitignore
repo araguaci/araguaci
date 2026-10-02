@@ -1,0 +1,4 @@
+.history/
+_tmp_*
+_posts/events/*
+!_posts/events/README.md

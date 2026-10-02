@@ -1,475 +1,262 @@
-## 🔰 Hey There 👋   
+<div align="center">
 
-[![stop-war-for-ever](https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&logoColor=00aced&style=flat)](https://stop-war-for-ever.vercel.app)
-<br/>
-[![LAWFARE-TIMELINE✨](https://img.shields.io/badge/LAWFARE-TIMELINE✨-00295b?logo=worldhealthorganization&logoColor=FED141&style=flat)](https://lawfare-timeline.vercel.app/)
-[![LAWFARE](https://img.shields.io/badge/LAWFARE-00295b?logo=miraheze&logoColor=FED141&style=flat)](https://lawfare-three.vercel.app/)
-[![ABUSO SUPREMO](https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&logoColor=FED141&style=flat)](https://abusosupremo.vercel.app)
-[![FUTURO ROUBADO](https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&logoColor=FED141&style=flat)](https://futuroroubado.vercel.app)
-[![ABUSO FEDERAL](https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&logoColor=FED141&style=flat)](https://abusofederal.vercel.app)
-[![DEMOCRACIA ABALADA](https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&logoColor=FED141&style=flat)](https://abaladademocracia.vercel.app)
-<br/>
-[![Website](https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb)](https://www.artesdosul.com)
-[![X org](https://img.shields.io/badge/X_Org-%40artesdosul-1d9bf0.svg)](https://x.com/artesdosul)
-[![X person](https://img.shields.io/badge/X_User-%40araguaci-1d9bf0.svg)](https://x.com/araguaci)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Araguaci-0077b5.svg)](https://www.linkedin.com/in/araguaci)
-[![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&color=orange)](https://patreon.com/artesdosul) 
-[![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow)](https://buymeacoffee.com/araguaci) 
+# Araguaci
 
-<table style="overflow: hidden; border: none; width:100%"><tr><td valign="top" width="80%">
+[![Site](https://img.shields.io/badge/Artes%20do%20Sul-artesdosul.com-6d3d9d?style=for-the-badge)](https://www.artesdosul.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-araguaci-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araguaci)
+[![X](https://img.shields.io/badge/X-@artesdosul-1d9bf0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/artesdosul)
+[![Patreon](https://img.shields.io/badge/Patreon-artesdosul-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/artesdosul)
 
-### Glad to see you here! ✨  
+Café, oração e código. Santa Catarina, Brasil.
 
-I’m a developer who has turned years of freelancing into a full-time career. 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f67b3e&center=true&vCenter=true&width=720&height=45&lines=SANTO%2C+SANTO%2C+SANTO%2C+%C3%89+O+SENHOR+DAS+HOSTES+DO+UNIVERSO;KODOISH%2C+KODOISH%2C+KODOISH+ADONAI+TSEBAYOTH" alt="Santo, santo, santo, é o Senhor das hostes do universo" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f67b3e&width=700&height=30&lines=SANTO%2C+SANTO%2C+SANTO%2C+%C3%89+O+SENHOR+DAS+HOSTES+DO+UNIVERSO;KODOISH%2C+KODOISH%2C+KODOISH+ADONAI+TSEBAYOTH" alt="Typing SVG" /></a>
+<a href="https://app.daily.dev/araguaci"><img src="https://api.daily.dev/devcards/v2/tXi35VgFDcwkYUMWMFPag.png?type=default&r=490" width="356" alt="Cartão de desenvolvedor de araguaci no daily.dev" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f67b3e&width=700&height=30&lines=KODOISH%2C+KODOISH%2C+KODOISH+ADONAI+TSEBAYOTH;SANTO%2C+SANTO%2C+SANTO%2C+%C3%89+O+SENHOR+DAS+HOSTES+DO+UNIVERSO)](https://git.io/typing-svg)
-
-![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
-
-
-[What Motivates Me](https://araguaci.github.io/personality/)
-
-</td><td valign="top" width="70%">
-<div style="float: right;">
-  <a href="https://app.daily.dev/araguaci"><img src="https://api.daily.dev/devcards/v2/tXi35VgFDcwkYUMWMFPag.png?type=default&r=490" width="356" alt="araguaci's Dev Card"/></a>
 </div>
-</td>
-</tr>
+
+Projetos públicos que mantenho. A fonte é a lista [My stack](https://github.com/stars/araguaci/lists/my-stack): o que é privado, ou fork de outra pessoa, não entra. As descrições completas estão em [docs/projetos.md](docs/projetos.md).
+
+## Projetos em destaque
+
+Os seis que deixo fixados no perfil.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><a href="https://github.com/araguaci/sabor-brazil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=sabor-brazil&theme=algolia&hide_border=true" alt="Repositório sabor-brazil" /></a></td>
+    <td><a href="https://github.com/araguaci/observatorio-civil-br"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=observatorio-civil-br&theme=algolia&hide_border=true" alt="Repositório observatorio-civil-br" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/araguaci/lawfare-timeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=lawfare-timeline&theme=algolia&hide_border=true" alt="Repositório lawfare-timeline" /></a></td>
+    <td><a href="https://github.com/araguaci/inprincipioverbum.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=inprincipioverbum.github.io&theme=algolia&hide_border=true" alt="Repositório inprincipioverbum.github.io" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/araguaci/ayrtonsenna-inmemoriam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=ayrtonsenna-inmemoriam&theme=algolia&hide_border=true" alt="Repositório ayrtonsenna-inmemoriam" /></a></td>
+    <td><a href="https://github.com/araguaci/catequese-para-adultos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=catequese-para-adultos&theme=algolia&hide_border=true" alt="Repositório catequese-para-adultos" /></a></td>
+  </tr>
 </table>
 
-<details>
-  <summary>
-    <b>📌 Favorite Repos </b>
-  </summary>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/estudodamente">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=estudodamente&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://estudodamente.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/estudo-da-mente/personal-site?icon=jekyll&color=620b47" />
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/olavo-de-carvalho">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=olavo-de-carvalho&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://olavodecarvalho.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/olavo-de-carvalho/personal-site?icon=jekyll&color=620b47" />
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/abusofederal">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=abusofederal&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://abusofederal.vercel.app/">
-				<img align="center" src="https://img.shields.io/badge/Abuso%20Federal-212529?logo=typescript&logoColor=fff&style=flat" />
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/inprincipioverbum.github.io">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=inprincipioverbum.github.io&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://inprincipioverbum.github.io/">
-				<img align="center" src="https://badgen.net/badge/inprincipioverbum/personal-site?icon=jekyll&color=620b47" />
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/o-dominio-de-si-mesmo">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=o-dominio-de-si-mesmo&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://odominiodesimesmo.netlify.app/">
-				<img align="center" src="https://img.shields.io/badge/odominiodesimesmo-4051b5?logo=netlify&logoColor=fff&style=flat" alt="o-dominio-de-si-mesmo">
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/earth-rainbow-bridge">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=earth-rainbow-bridge&theme=default" />
-        </a>
-		<p align=center>
-			<a href="http://gaia.artesdosul.com/">
-				<img align="center" src="https://img.shields.io/badge/earthrainbowbridge-51338f?logo=javascript&logoColor=fff&style=flat" alt="earth-rainbow-bridge">
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>      
-      <td>
-        <a href="https://github.com/araguaci/portfolio-particles">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=portfolio-particles&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://portfolio-particles.vercel.app/">
-				<img align="center" src="https://img.shields.io/badge/portfolioparticles-265e39?logo=react&logoColor=fff&style=flat" alt="portfolio-particles">
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/jornada-seja-grato">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=jornada-seja-grato&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://jornada-seja-grato-araguaci.vercel.app/">
-				<img align="center" src="https://img.shields.io/badge/jornadasejagrato-a2681a?logo=javascript&logoColor=fff&style=flat" alt="portfolio-particles">
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/suntzu">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=suntzu&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://suntzu.vercel.app/">
-				<img align="center" src="https://img.shields.io/badge/suntzu-eb4346?logo=javascript&logoColor=fff&style=flat" alt="suntzu-US">
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/solarstorm">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=solarstorm&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://solarstorm.vercel.app/">
-				<img align="center" src="https://img.shields.io/badge/solarstorm-038d50?logo=astro&logoColor=fff&style=flat" alt="SOLAR STORM G5 Extreme Conditions Reached - 10/11/12 May 2024">
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/brasil-pela-liberdade">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=brasil-pela-liberdade&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://brasil-pela-liberdade.vercel.app/">
-				<img align="center" src="https://img.shields.io/badge/brasilpelaliberdade-fbdb04?logo=astro&logoColor=fff&style=flat" alt="✠ Brasil pela Liberdade ✠">
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/patria-amada-brasil">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=patria-amada-brasil&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://patria-amada-brasil.vercel.app/">
-				<img align="center" src="https://img.shields.io/badge/patriaamadabrasil-0d4a1b?logo=docusaurus&logoColor=fff&style=flat" alt="✠ Brasil pela Liberdade ✠">
-			</a>
-		</p>
-      </td>
-    </tr>
-  </table>
-</details>
+</div>
+
+## Todos os projetos públicos
 
 <details>
-  <summary>
-    <b>📖 Biblioteca </b>
-  </summary>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/olavo-de-carvalho">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=olavo-de-carvalho&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://olavodecarvalho.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/olavo-de-carvalho/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/os-cinco-niveis-de-apego">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=os-cinco-niveis-de-apego&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://os-cinco-niveis-de-apego.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/os-cinco-niveis-de-apego/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/ikigai">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=ikigai&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://ikigai-alpha.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/ikigai/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/kaizen">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=kaizen&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://ikigai-alpha.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/kaizen/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/supremos-erros">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=supremos-erros&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://supremoserros.netlify.app/">
-				<img align="center" src="https://img.shields.io/badge/supremoserros-b30b00?logo=netlify&logoColor=fff&style=flat" alt="supremos-erros">
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/partido-das-sombras">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=partido-das-sombras&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://partido-das-sombras.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/partido-das-sombras/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/a-esperanca-estilhacada">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=a-esperanca-estilhacada&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://a-esperanca-estilhacada.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/a-esperanca-estilhacada/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/satiagraha">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=satiagraha&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://operacaosatiagraha.netlify.app/">
-				<img align="center" src="https://img.shields.io/badge/operacaosatiagraha-b30b00?logo=netlify&logoColor=fff&style=flat" alt="operacao-satiagraha">
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>      
-      <td>
-        <a href="https://github.com/araguaci/mentes-perigosas">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=mentes-perigosas&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://mentesperigosas.netlify.app/">
-				<img align="center" src="https://img.shields.io/badge/mentesperigosas-b30b00?logo=netlify&logoColor=fff&style=flat" alt="mentes-perigosas">
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/a-cura-em-1minuto">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=a-cura-em-1minuto&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://segredoparacura.netlify.app/">
-				<img align="center" src="https://img.shields.io/badge/segredoparacura-b30b00?logo=netlify&logoColor=fff&style=flat" alt="segredo-para-cura">
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/o-apagar-das-luzes">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=o-apagar-das-luzes&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://o-apagar-das-luzes.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/o-apagar-das-luzes/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/os-quatro-compromissos">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=os-quatro-compromissos&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://os-quatro-compromissos.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/os-quatro-compromissos/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/araguaci/drogavermelha">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=drogavermelha&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://drogavermelha.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/drogavermelha/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-      <td>
-        <a href="https://github.com/araguaci/ponerologia-psicopatas-no-poder">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=araguaci&repo=ponerologia-psicopatas-no-poder&theme=default" />
-        </a>
-		<p align=center>
-			<a href="https://ponerologia-psicopatas-no-poder.vercel.app/">
-				<img align="center" src="https://badgen.net/badge/ponerologia-psicopatas-no-poder/pdf?icon=vercel&color=red" />
-			</a>
-		</p>
-      </td>
-    </tr>
-  </table>
-</details>
+  <summary><b>Abrir o catálogo da lista My stack</b></summary>
 
-<details>
-  <summary><b>💫 For Soul</b></summary>
-     
-      
-<table style="overflow: hidden; border: none;"><tr><td valign="top" width="50%">
+  Repositórios públicos originais. Para atualizar: `python scripts/sync_public_stack.py` (precisa do GitHub CLI autenticado).
 
-✠ Que as gotas de chuva molhem suavemente o seu rosto.
+  <!-- stack:start -->
+<!-- gerado por scripts/sync_public_stack.py em 2026-10-01 -->
 
-✠ Que o vento suave refresque seu espírito.
+**Investigação e Brasil**
 
-✠ Que o sol ilumine o seu coração.
+- [a-esperanca-estilhacada](https://github.com/araguaci/a-esperanca-estilhacada) · [site](https://a-esperanca-estilhacada.vercel.app)
+- [abusofederal](https://github.com/araguaci/abusofederal) · [site](https://abusofederal.vercel.app)
+- [abusosupremo](https://github.com/araguaci/abusosupremo) · [site](https://abusosupremo.vercel.app)
+- [brasil-pela-liberdade](https://github.com/araguaci/brasil-pela-liberdade) · [site](https://brasil-pela-liberdade.vercel.app/)
+- [brasileiros-pocoto](https://github.com/araguaci/brasileiros-pocoto)
+- [cronograma-para-a-t1ran1a](https://github.com/araguaci/cronograma-para-a-t1ran1a) · [site](https://araguaci.github.io/cronograma-para-a-t1ran1a/)
+- [cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) · [site](https://cronologia-operacoes-eua.vercel.app)
+- [darknetwork](https://github.com/araguaci/darknetwork) · [site](https://github.com/ArvorCo/epstein)
+- [drogavermelha](https://github.com/araguaci/drogavermelha) · [site](https://drogavermelha.vercel.app)
+- [futuroroubado](https://github.com/araguaci/futuroroubado) · [site](https://futuroroubado.vercel.app)
+- [geoengineering-patents](https://github.com/araguaci/geoengineering-patents) · [site](https://geoengenharia.vercel.app/)
+- [gilmarmometro](https://github.com/araguaci/gilmarmometro) · [site](https://gilmarmometro.vercel.app)
+- [guerra-da-informacao](https://github.com/araguaci/guerra-da-informacao)
+- [hatevaom](https://github.com/araguaci/hatevaom)
+- [jusmonitor](https://github.com/araguaci/jusmonitor) · [site](https://jusmonitor.vercel.app/)
+- [lawfare](https://github.com/araguaci/lawfare) · [site](https://lawfare-three.vercel.app)
+- [lawfare-timeline](https://github.com/araguaci/lawfare-timeline) · [site](https://lawfare-timeline.vercel.app)
+- [lockdowns](https://github.com/araguaci/lockdowns)
+- [malvadofavorito](https://github.com/araguaci/malvadofavorito) · [site](https://malvadofavorito.vercel.app)
+- [mentes-perigosas](https://github.com/araguaci/mentes-perigosas) · [site](https://mentesperigosas.netlify.app)
+- [o-apagar-das-luzes](https://github.com/araguaci/o-apagar-das-luzes) · [site](https://o-apagar-das-luzes.vercel.app)
+- [observatorio-civil-br](https://github.com/araguaci/observatorio-civil-br) · [site](https://observatorio-civil-br.vercel.app)
+- [observatoriobrasil](https://github.com/araguaci/observatoriobrasil)
+- [odragaoeaonca](https://github.com/araguaci/odragaoeaonca) · [site](https://odragaoeaonca.vercel.app)
+- [ong-no-brasil-gsoros](https://github.com/araguaci/ong-no-brasil-gsoros)
+- [os-5-carteis](https://github.com/araguaci/os-5-carteis) · [site](https://os-5-carteis.vercel.app)
+- [partido-das-sombras](https://github.com/araguaci/partido-das-sombras) · [site](https://partido-das-sombras.vercel.app)
+- [patria-amada-brasil](https://github.com/araguaci/patria-amada-brasil) · [site](https://patria-amada-brasil.vercel.app/)
+- [ponerologia-psicopatas-no-poder](https://github.com/araguaci/ponerologia-psicopatas-no-poder) · [site](https://ponerologia-psicopatas-no-poder.vercel.app)
+- [republica-sequestrada-hub](https://github.com/araguaci/republica-sequestrada-hub) · [site](https://republica-sequestrada-hub.vercel.app)
+- [republicadegranvia](https://github.com/araguaci/republicadegranvia) · [site](https://republicadegranvia.vercel.app)
+- [sabor-brazil](https://github.com/araguaci/sabor-brazil) · [site](https://sabor-brazil.vercel.app)
+- [satiagraha](https://github.com/araguaci/satiagraha) · [site](https://operacaosatiagraha.netlify.app)
+- [sereis-como-deuses](https://github.com/araguaci/sereis-como-deuses) · [site](https://sereiscomodeuses.vercel.app)
+- [serie-demografica](https://github.com/araguaci/serie-demografica) · [site](https://serie-demografica.vercel.app)
+- [supremos-erros](https://github.com/araguaci/supremos-erros) · [site](https://supremoserros.netlify.app)
+- [taxad](https://github.com/araguaci/taxad) · [site](https://taxad.vercel.app)
+- [timeline-biowar](https://github.com/araguaci/timeline-biowar) · [site](https://timeline-biowar.vercel.app)
+- [twitterfilesbrazil](https://github.com/araguaci/twitterfilesbrazil) · [site](https://www.twitterfilesbrazil.com/)
+- [vitimas-do-estado](https://github.com/araguaci/vitimas-do-estado) · [site](https://vitimas-do-estado.vercel.app)
 
-✠ Que as tarefas do dia não sejam um peso nos seus ombros.
+**Fé e contemplação**
 
-✠ Que Deus envolva você no manto de seu amor.
+- [a-oracao-de-sao-miguel](https://github.com/araguaci/a-oracao-de-sao-miguel) · [site](https://a-oracao-de-sao-miguel.vercel.app)
+- [catequese-para-adultos](https://github.com/araguaci/catequese-para-adultos) · [site](https://catequese-para-adultos.vercel.app)
+- [Christo-nihil-praeponere](https://github.com/araguaci/Christo-nihil-praeponere) · [site](https://araguaci.github.io/Christo-nihil-praeponere/)
+- [crux-sacra-sit-mihi-lux](https://github.com/araguaci/crux-sacra-sit-mihi-lux)
+- [earth-rainbow-bridge](https://github.com/araguaci/earth-rainbow-bridge) · [site](http://gaia.artesdosul.com/)
+- [healing-sound-of-the-earth](https://github.com/araguaci/healing-sound-of-the-earth) · [site](https://healing-sound-of-the-earth.vercel.app)
+- [os-10-mandamentos](https://github.com/araguaci/os-10-mandamentos) · [site](https://os-10-mandamentos.vercel.app/)
+- [proverbios](https://github.com/araguaci/proverbios) · [site](https://proverbios-kappa.vercel.app)
+- [stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) · [site](https://stop-war-for-ever.vercel.app/)
+- [viacrucis](https://github.com/araguaci/viacrucis) · [site](https://viacrucis.vercel.app)
+- [visao-ezequiel](https://github.com/araguaci/visao-ezequiel) · [site](https://visao-ezequiel.vercel.app)
+- [yo-webapp-earth](https://github.com/araguaci/yo-webapp-earth) · [site](http://gaia.artesdosul.com/)
 
-✠ Que a estrada se abra à sua frente.
+**Biblioteca**
 
-✠ Que o vento sopre levemente em suas costas.
+- [12regrasparavida](https://github.com/araguaci/12regrasparavida)
+- [a-arte-de-alcancar-uma-vida-plena](https://github.com/araguaci/a-arte-de-alcancar-uma-vida-plena) · [site](https://a-arte-de-alcancar-uma-vida-plena.vercel.app)
+- [a-cura-em-1minuto](https://github.com/araguaci/a-cura-em-1minuto) · [site](https://segredoparacura.netlify.app)
+- [as-seis-licoes-ludwig-von-mises](https://github.com/araguaci/as-seis-licoes-ludwig-von-mises) · [site](https://asseislicoes.netlify.app)
+- [devbooks](https://github.com/araguaci/devbooks) · [site](https://devbooks.artesdosul.com/)
+- [ervas-a-z](https://github.com/araguaci/ervas-a-z)
+- [ikigai](https://github.com/araguaci/ikigai) · [site](https://ikigai-alpha.vercel.app)
+- [kaizen](https://github.com/araguaci/kaizen) · [site](https://kaizen-nine.vercel.app)
+- [library-of-excellence](https://github.com/araguaci/library-of-excellence) · [site](https://library-of-excellence.vercel.app)
+- [miyamoto-musashi](https://github.com/araguaci/miyamoto-musashi) · [site](https://miyamoto-musashi-rosy.vercel.app)
+- [notebooklm-5W2H](https://github.com/araguaci/notebooklm-5W2H) · [site](https://5w2h-chi.vercel.app)
+- [notebooklm-PESTEL](https://github.com/araguaci/notebooklm-PESTEL) · [site](https://pestel-chi.vercel.app)
+- [notebooklm-showcase](https://github.com/araguaci/notebooklm-showcase) · [site](https://swot-chi.vercel.app/)
+- [notebooklm-suntzu](https://github.com/araguaci/notebooklm-suntzu) · [site](https://suntzu-chi.vercel.app)
+- [notebooklm-SWOT](https://github.com/araguaci/notebooklm-SWOT) · [site](https://swot-chi.vercel.app)
+- [o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) · [site](https://araguaci.github.io/o-dominio-de-si-mesmo)
+- [o-grande-conflito](https://github.com/araguaci/o-grande-conflito)
+- [ocaminhodaservidao](https://github.com/araguaci/ocaminhodaservidao) · [site](https://ocaminhodaservidao.vercel.app)
+- [olavo-de-carvalho](https://github.com/araguaci/olavo-de-carvalho) · [site](https://olavodecarvalho.vercel.app)
+- [os-cinco-niveis-de-apego](https://github.com/araguaci/os-cinco-niveis-de-apego) · [site](https://os-cinco-niveis-de-apego.vercel.app)
+- [os-quatro-compromissos](https://github.com/araguaci/os-quatro-compromissos) · [site](https://os-quatro-compromissos.vercel.app)
+- [plantasquecuram](https://github.com/araguaci/plantasquecuram) · [site](https://araguaci.github.io/plantasquecuram/)
+- [por-que-lutamos](https://github.com/araguaci/por-que-lutamos) · [site](https://por-que-lutamos.vercel.app)
+- [sabedoria-suntzu](https://github.com/araguaci/sabedoria-suntzu) · [site](https://sabedoria-suntzu.vercel.app)
+- [sun-tzu](https://github.com/araguaci/sun-tzu) · [site](https://suntzucast.netlify.app/)
+- [suntzu](https://github.com/araguaci/suntzu) · [site](https://suntzu.vercel.app)
 
-✠ Que o sol brilhe morno e suave em sua face.
+**Surf, esporte e litoral**
 
-✠ Que a chuva caia de mansinho em seus campos.
+- [floripa-surf-club-surf-school-360](https://github.com/araguaci/floripa-surf-club-surf-school-360) · [site](https://floripa-surf-club-surf-school-360.vercel.app/)
+- [floripasupcamp](https://github.com/araguaci/floripasupcamp) · [site](https://floripasupcamp.herokuapp.com/)
+- [floripasupcamp.com.br](https://github.com/araguaci/floripasupcamp.com.br)
+- [floripasurfclub-reviews](https://github.com/araguaci/floripasurfclub-reviews) · [site](https://floripasurfclub-reviews.vercel.app/)
+- [supsocial](https://github.com/araguaci/supsocial) · [site](https://supsocial.vercel.app)
+- [surfweb](https://github.com/araguaci/surfweb)
+- [timeline-surf-santa-catarina](https://github.com/araguaci/timeline-surf-santa-catarina) · [site](https://timeline-surf-santa-catarina.vercel.app/)
 
-✠ Até que nos encontremos de novo...
+**Memória e tributos**
 
-✠ Que Deus guarde você na palma de sua mão.
+- [ayrtonsenna-inmemoriam](https://github.com/araguaci/ayrtonsenna-inmemoriam) · [site](https://ayrtonsenna-inmemoriam.netlify.app)
+- [ayrtonsenna-magic](https://github.com/araguaci/ayrtonsenna-magic) · [site](https://ayrtonsenna-magic.vercel.app)
+- [ayrtonsenna-memories](https://github.com/araguaci/ayrtonsenna-memories) · [site](https://ayrtonsenna-memories.netlify.app)
+- [estudodamente](https://github.com/araguaci/estudodamente) · [site](https://estudodamente.vercel.app)
+- [jornada-seja-grato](https://github.com/araguaci/jornada-seja-grato) · [site](https://jornada-seja-grato-araguaci.vercel.app/)
+- [tributo-a-charlie-kirk](https://github.com/araguaci/tributo-a-charlie-kirk) · [site](https://tributo-a-charlie-kirk.vercel.app)
 
-</td><td valign="top" width="50%">
+**Ferramentas, web e experimentos**
 
-✠ Let the raindrops gently wet your face.
-
-✠ May the gentle wind refresh his spirit.
-
-✠ May the sun light up your heart.
-
-✠ That the tasks of the day are not a burden on your shoulders.
-
-✠ May God wrap you in the mantle of his love.
-
-✠ Let the road open in front of you.
-
-✠ Let the wind blow lightly on your back.
-
-✠ May the sun shine warm and soft on your face.
-
-✠ May the rain fall softly on your fields.
-
-✠ Until we meet again...
-
-✠ May God keep you in the palm of his hand.
-</td></tr></table>  
-
-
-
-    🥇918197185    3396815  138 14111963    71042    419 814🥇
+- [AI-tools-and-prompts](https://github.com/araguaci/AI-tools-and-prompts)
+- [all-notes-skills](https://github.com/araguaci/all-notes-skills)
+- [araguaci.github.io](https://github.com/araguaci/araguaci.github.io) · [site](https://araguaci.github.io/)
+- [astro-portifolio-artesdosul](https://github.com/araguaci/astro-portifolio-artesdosul)
+- [autoindex](https://github.com/araguaci/autoindex)
+- [backend-guide](https://github.com/araguaci/backend-guide) · [site](https://araguaci.github.io/backend-guide/)
+- [biolnk](https://github.com/araguaci/biolnk)
+- [bootstrap-gallery](https://github.com/araguaci/bootstrap-gallery) · [site](https://brasil-pela-liberdade.vercel.app/)
+- [cursor-skills](https://github.com/araguaci/cursor-skills) · [site](https://cursor-skills.vercel.app)
+- [design-fundamentals](https://github.com/araguaci/design-fundamentals) · [site](https://design-fundamentals-pi.vercel.app)
+- [docsify-awesome-stars](https://github.com/araguaci/docsify-awesome-stars) · [site](https://docsify-awesome-stars.vercel.app)
+- [edge-functions-geolocation](https://github.com/araguaci/edge-functions-geolocation) · [site](https://edge-functions-geolocation-five.vercel.app)
+- [github-trending](https://github.com/araguaci/github-trending) · [site](https://araguaci.github.io/github-trending/)
+- [infra-report](https://github.com/araguaci/infra-report)
+- [lab-linux](https://github.com/araguaci/lab-linux) · [site](https://araguaci.github.io/lab-linux/)
+- [links](https://github.com/araguaci/links) · [site](https://araguaci.github.io/links/)
+- [matrix](https://github.com/araguaci/matrix) · [site](https://matrix-five.vercel.app/)
+- [open-graph](https://github.com/araguaci/open-graph) · [site](https://open-graph-steel.vercel.app)
+- [portfolio](https://github.com/araguaci/portfolio)
+- [portfolio-particles](https://github.com/araguaci/portfolio-particles) · [site](https://portfolio-particles.vercel.app)
+- [rotadoceu](https://github.com/araguaci/rotadoceu)
+- [sharecard](https://github.com/araguaci/sharecard) · [site](https://sharecard-chi.vercel.app)
+- [sidebar-navigation-modern](https://github.com/araguaci/sidebar-navigation-modern) · [site](https://sidebar-navigation-eight.vercel.app)
+- [software-tools](https://github.com/araguaci/software-tools) · [site](https://software-tools.vercel.app)
+- [solarstorm](https://github.com/araguaci/solarstorm) · [site](https://solarstorm.vercel.app)
+<!-- stack:end -->
 
 </details>
 
-<details>
-  <summary><b>🛠️ Designer, Producer, Creator</b></summary>
-     
+## Biblioteca
 
-### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering ✨
+Leituras que publiquei como site. O Kaizen tem endereço próprio; o Ikigai também.
 
-Outros Projetos
+| | |
+| --- | --- |
+| [Olavo de Carvalho](https://olavodecarvalho.vercel.app/) | [Os cinco níveis de apego](https://os-cinco-niveis-de-apego.vercel.app/) |
+| [Ikigai](https://ikigai-alpha.vercel.app/) | [Kaizen](https://kaizen-nine.vercel.app/) |
+| [Partido das sombras](https://partido-das-sombras.vercel.app/) | [Os quatro compromissos](https://os-quatro-compromissos.vercel.app/) |
+| [O domínio de si mesmo](https://odominiodesimesmo.netlify.app/) | [O caminho da servidão](https://ocaminhodaservidao.vercel.app/) |
 
-  - [Pátria Amada Brasil - Melhorias e Entregas do Governo Malvadão](https://patria-amada-brasil.vercel.app/)
-  - [Brasil Pela Liberdade](https://brasil-pela-liberdade.vercel.app/)
-  - [S.O.S. Terra](https://healing-sound-of-the-earth.vercel.app/)
-  - [Pela Paz na Terra](http://gaia.artesdosul.com/)
-  - [Jornada Seja Grato](https://jornada-seja-grato-araguaci.vercel.app/)
-  - [FLORIPA SURF CLUB SURF SCHOOL – A escola que ensina a surfar na praia com ondas perfeitas para iniciantes](https://floripasurfclub.com/)
-  - [FLORIPA SUP CLUB - STAND UP PADDLE SURFCLUB](http://www.floripasupclub.com.br/)
-  - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
-  - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
+## Para a alma
 
-### F.E.C.E.E.S.S. ☆ A.C.E.S. SC ✨
-  
-  Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina
+<div align="center">
 
-  - [🌊 Federação Catarinense de Especialistas e Escolas de Surf e Stand Up Paddle](https://escolasdesurf.org.br/)
-  - A.C.E.S. SC-Associação Catarinense das Escolas de Surf SC
-  - Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina
-    - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
-    - [🏄 Escolas de Surf Credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
+| | |
+| --- | --- |
+| Que as gotas de chuva molhem suavemente o seu rosto. Que o vento suave refresque seu espírito. Que o sol ilumine o seu coração. Que Deus envolva você no manto de seu amor. Até que nos encontremos de novo. | Let the raindrops gently wet your face. May the gentle wind refresh your spirit. May the sun light up your heart. May God wrap you in the mantle of his love. Until we meet again. |
 
+`918197185 · 3396815 · 138 14111963 · 71042 · 419 814`
 
-**[⬆️ Top](#-hey-there-)**       
-</details>
+</div>
 
-<details>
-  <summary><b>📊 Summary</b></summary>
-     
-<h1 align="center">Hi 👋, I'm Araguaci</h1>
-<h3 align="center">A passionate php developer from Brazil. Currently in Santa Catarina - Brazil</h3>
+## Ofício e voluntariado
 
- 
+- [Pátria Amada Brasil](https://patria-amada-brasil.vercel.app/)
+- [Brasil pela Liberdade](https://brasil-pela-liberdade.vercel.app/)
+- [S.O.S. Terra](https://healing-sound-of-the-earth.vercel.app/)
+- [Pela paz na Terra](http://gaia.artesdosul.com/)
+- [Jornada Seja Grato](https://jornada-seja-grato-araguaci.vercel.app/)
+- [Floripa Surf Club](https://floripasurfclub.com/)
+- [Floripa SUP Club](http://www.floripasupclub.com.br/)
+- [Central de Aventuras](http://centraldeaventuras.com.br/)
+- [Projeto SUP Social](https://supsocial.vercel.app/)
 
+Federação Catarinense de Especialistas e Escolas de Surf e Stand Up Paddle, com a A.C.E.S. SC.
 
+- [Escolas de surf](https://escolasdesurf.org.br/)
+- [Hotsite F.E.C.E.E.S.S.](http://feceess.escolasdesurf.org.br/)
+- [Escolas credenciadas](http://feceess.escolasdesurf.org.br/escolas/)
 
+## Estatísticas
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=araguaci&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=araguaci&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=araguaci&theme=default)  |
-| :-: | :-: | :-: |
+Os cartões abaixo vêm de instâncias mantidas. O de sequência usa [streak-stats.demolab.com](https://github.com/denvercoder1/github-readme-streak-stats), que substitui o endereço antigo no Heroku.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=araguaci&theme=default) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=araguaci&mode=weekly)](https://git.io/streak-stats) |
-| :-: | :-: |
+<div align="center">
 
-<h3 align="left">Buy me a coffee ☕:</h3>
-<p><a
- href="https://www.buymeacoffee.com/araguaci">
-      <img align="left" 
-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-height="40"  alt="araguaci" /></a></p><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&theme=algolia&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de araguaci" />
 
+<img src="https://streak-stats.demolab.com/?user=araguaci&theme=algolia&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de araguaci" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&theme=algolia&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais usadas por araguaci" />
 
+</div>
 
- 
+<div align="center">
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-araguaci-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/araguaci)
 
+</div>
 
-**[⬆️ Back to Top](#-hey-there-)**     
-</details>
+<div align="center">
 
+**[Voltar ao topo](#araguaci)**
 
+</div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=araguaci&&style=flat)
-[![GitHub Followers](https://img.shields.io/github/followers/araguaci?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araguaci)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=araguaci&style=flat&color=6d3d9d&label=visitas)
+[![Seguidores](https://img.shields.io/github/followers/araguaci?style=flat&label=seguidores&labelColor=0D0D0D&color=6d3d9d&logo=github&logoColor=white)](https://github.com/araguaci)
 
 [Low Poly Art Generator](https://gist.github.com/araguaci/6863b19ee30c2d43bd715a71b4f8e411)
-⬢⬡⬢⬡ 
+
+Anotações de referência que não fazem parte do perfil ficam em [`notes/`](notes/).

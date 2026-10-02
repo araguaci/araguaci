@@ -1,27 +1,35 @@
+# Converte um feed RSS em Markdown usando scripts/rss-to-markdown.mjs.
+# A action araguaci/rss-feed-to-markdown declara runtime node16, removido pelo GitHub.
+# O feed que estava fixo aqui (channel UCuVczNc74...) é o canal "Game Dev Happy Hour",
+# exemplo da action, não um canal deste perfil. Por isso o job deixou de rodar em todo push.
+# Dispare manualmente e informe a URL do feed. O job não faz commit.
+
 name: RSS Feed to Markdown
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
+    inputs:
+      feed_url:
+        description: "URL do feed RSS, por exemplo https://www.youtube.com/feeds/videos.xml?channel_id=SEU_CANAL"
+        required: true
+        type: string
+
+permissions:
+  contents: read
 
 jobs:
   convert_feeds:
     runs-on: ubuntu-latest
-
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "22"
 
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Run RSS Feed to Markdown Action
-        uses: araguaci/rss-feed-to-markdown@main
-        with:
-          feed_url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuVczNc74_jsmgNlAhHbz-Q'
-          template_file: 'assets/template.md'
-          output_dir: '_posts/events/'
+      - name: Convert feed
+        run: node scripts/rss-to-markdown.mjs "$FEED_URL" assets/template.md _posts/events
+        env:
+          FEED_URL: ${{ inputs.feed_url }}

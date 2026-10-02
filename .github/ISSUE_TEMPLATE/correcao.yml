@@ -1,0 +1,31 @@
+name: Correção no perfil
+description: Link quebrado, projeto público faltando ou texto errado no README.
+title: "[perfil] "
+labels: []
+body:
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo
+      options:
+        - Link ou site quebrado
+        - Projeto público que falta no catálogo
+        - Cartão ou badge que não carrega
+        - Texto
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: onde
+    attributes:
+      label: Onde
+      description: Arquivo, seção ou URL.
+      placeholder: README.md, seção Biblioteca
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que deveria aparecer
+    validations:
+      required: true
